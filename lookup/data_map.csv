@@ -1,0 +1,1781 @@
+"table","field_name","code","label","note"
+"collision","police_force","1","Metropolitan Police",NA
+"collision","police_force","3","Cumbria",NA
+"collision","police_force","4","Lancashire",NA
+"collision","police_force","5","Merseyside",NA
+"collision","police_force","6","Greater Manchester",NA
+"collision","police_force","7","Cheshire",NA
+"collision","police_force","10","Northumbria",NA
+"collision","police_force","11","Durham",NA
+"collision","police_force","12","North Yorkshire",NA
+"collision","police_force","13","West Yorkshire",NA
+"collision","police_force","14","South Yorkshire",NA
+"collision","police_force","16","Humberside",NA
+"collision","police_force","17","Cleveland",NA
+"collision","police_force","20","West Midlands",NA
+"collision","police_force","21","Staffordshire",NA
+"collision","police_force","22","West Mercia",NA
+"collision","police_force","23","Warwickshire",NA
+"collision","police_force","30","Derbyshire",NA
+"collision","police_force","31","Nottinghamshire",NA
+"collision","police_force","32","Lincolnshire",NA
+"collision","police_force","33","Leicestershire",NA
+"collision","police_force","34","Northamptonshire",NA
+"collision","police_force","35","Cambridgeshire",NA
+"collision","police_force","36","Norfolk",NA
+"collision","police_force","37","Suffolk",NA
+"collision","police_force","40","Bedfordshire",NA
+"collision","police_force","41","Hertfordshire",NA
+"collision","police_force","42","Essex",NA
+"collision","police_force","43","Thames Valley",NA
+"collision","police_force","44","Hampshire",NA
+"collision","police_force","45","Surrey",NA
+"collision","police_force","46","Kent",NA
+"collision","police_force","47","Sussex",NA
+"collision","police_force","48","City of London",NA
+"collision","police_force","50","Devon and Cornwall",NA
+"collision","police_force","52","Avon and Somerset",NA
+"collision","police_force","53","Gloucestershire",NA
+"collision","police_force","54","Wiltshire",NA
+"collision","police_force","55","Dorset",NA
+"collision","police_force","60","North Wales",NA
+"collision","police_force","61","Gwent",NA
+"collision","police_force","62","South Wales",NA
+"collision","police_force","63","Dyfed-Powys",NA
+"collision","police_force","91","Northern","category discontinued in 2019"
+"collision","police_force","92","Grampian","category discontinued in 2019"
+"collision","police_force","93","Tayside","category discontinued in 2019"
+"collision","police_force","94","Fife","category discontinued in 2019"
+"collision","police_force","95","Lothian and Borders","category discontinued in 2019"
+"collision","police_force","96","Central","category discontinued in 2019"
+"collision","police_force","97","Strathclyde","category discontinued in 2019"
+"collision","police_force","98","Dumfries and Galloway","category discontinued in 2019"
+"collision","police_force","99","Police Scotland","category introduced in 2019"
+"collision","collision_severity","1","Fatal",NA
+"collision","collision_severity","2","Serious",NA
+"collision","collision_severity","3","Slight",NA
+"collision","enhanced_collision_severity","1","Fatal","category introduced where collected in 2023"
+"collision","enhanced_collision_severity","5","Very Serious","category introduced where collected in 2023"
+"collision","enhanced_collision_severity","6","Moderately Serious","category introduced where collected in 2023"
+"collision","enhanced_collision_severity","7","Less Serious","category introduced where collected in 2023"
+"collision","enhanced_collision_severity","3","Slight","category introduced where collected in 2023"
+"collision","enhanced_collision_severity","-1","Data missing or out of range","category introduced where collected in 2023"
+"collision","day_of_week","1","Sunday",NA
+"collision","day_of_week","2","Monday",NA
+"collision","day_of_week","3","Tuesday",NA
+"collision","day_of_week","4","Wednesday",NA
+"collision","day_of_week","5","Thursday",NA
+"collision","day_of_week","6","Friday",NA
+"collision","day_of_week","7","Saturday",NA
+"collision","local_authority_district","1","Westminster",NA
+"collision","local_authority_district","2","Camden",NA
+"collision","local_authority_district","3","Islington",NA
+"collision","local_authority_district","4","Hackney",NA
+"collision","local_authority_district","5","Tower Hamlets",NA
+"collision","local_authority_district","6","Greenwich",NA
+"collision","local_authority_district","7","Lewisham",NA
+"collision","local_authority_district","8","Southwark",NA
+"collision","local_authority_district","9","Lambeth",NA
+"collision","local_authority_district","10","Wandsworth",NA
+"collision","local_authority_district","11","Hammersmith and Fulham",NA
+"collision","local_authority_district","12","Kensington and Chelsea",NA
+"collision","local_authority_district","13","Waltham Forest",NA
+"collision","local_authority_district","14","Redbridge",NA
+"collision","local_authority_district","15","Havering",NA
+"collision","local_authority_district","16","Barking and Dagenham",NA
+"collision","local_authority_district","17","Newham",NA
+"collision","local_authority_district","18","Bexley",NA
+"collision","local_authority_district","19","Bromley",NA
+"collision","local_authority_district","20","Croydon",NA
+"collision","local_authority_district","21","Sutton",NA
+"collision","local_authority_district","22","Merton",NA
+"collision","local_authority_district","23","Kingston upon Thames",NA
+"collision","local_authority_district","24","Richmond upon Thames",NA
+"collision","local_authority_district","25","Hounslow",NA
+"collision","local_authority_district","26","Hillingdon",NA
+"collision","local_authority_district","27","Ealing",NA
+"collision","local_authority_district","28","Brent",NA
+"collision","local_authority_district","29","Harrow",NA
+"collision","local_authority_district","30","Barnet",NA
+"collision","local_authority_district","31","Haringey",NA
+"collision","local_authority_district","32","Enfield",NA
+"collision","local_authority_district","33","Hertsmere",NA
+"collision","local_authority_district","38","Epsom and Ewell",NA
+"collision","local_authority_district","40","Spelthorne",NA
+"collision","local_authority_district","57","London Airport (Heathrow)",NA
+"collision","local_authority_district","60","Allerdale",NA
+"collision","local_authority_district","61","Barrow-in-Furness",NA
+"collision","local_authority_district","62","Carlisle",NA
+"collision","local_authority_district","63","Copeland",NA
+"collision","local_authority_district","64","Eden",NA
+"collision","local_authority_district","65","South Lakeland",NA
+"collision","local_authority_district","70","Blackburn with Darwen",NA
+"collision","local_authority_district","71","Blackpool",NA
+"collision","local_authority_district","72","Burnley",NA
+"collision","local_authority_district","73","Chorley",NA
+"collision","local_authority_district","74","Fylde",NA
+"collision","local_authority_district","75","Hyndburn",NA
+"collision","local_authority_district","76","Lancaster",NA
+"collision","local_authority_district","77","Pendle",NA
+"collision","local_authority_district","79","Preston",NA
+"collision","local_authority_district","80","Ribble Valley",NA
+"collision","local_authority_district","82","Rossendale",NA
+"collision","local_authority_district","83","South Ribble",NA
+"collision","local_authority_district","84","West Lancashire",NA
+"collision","local_authority_district","85","Wyre",NA
+"collision","local_authority_district","90","Knowsley",NA
+"collision","local_authority_district","91","Liverpool",NA
+"collision","local_authority_district","92","St. Helens",NA
+"collision","local_authority_district","93","Sefton",NA
+"collision","local_authority_district","95","Wirral",NA
+"collision","local_authority_district","100","Bolton",NA
+"collision","local_authority_district","101","Bury",NA
+"collision","local_authority_district","102","Manchester",NA
+"collision","local_authority_district","104","Oldham",NA
+"collision","local_authority_district","106","Rochdale",NA
+"collision","local_authority_district","107","Salford",NA
+"collision","local_authority_district","109","Stockport",NA
+"collision","local_authority_district","110","Tameside",NA
+"collision","local_authority_district","112","Trafford",NA
+"collision","local_authority_district","114","Wigan",NA
+"collision","local_authority_district","120","Chester",NA
+"collision","local_authority_district","121","Congleton",NA
+"collision","local_authority_district","122","Crewe and Nantwich",NA
+"collision","local_authority_district","123","Ellesmere Port and Neston",NA
+"collision","local_authority_district","124","Halton",NA
+"collision","local_authority_district","126","Macclesfield",NA
+"collision","local_authority_district","127","Vale Royal",NA
+"collision","local_authority_district","128","Warrington",NA
+"collision","local_authority_district","129","Cheshire East",NA
+"collision","local_authority_district","130","Cheshire West and Chester",NA
+"collision","local_authority_district","139","Northumberland",NA
+"collision","local_authority_district","140","Alnwick",NA
+"collision","local_authority_district","141","Berwick-upon-Tweed",NA
+"collision","local_authority_district","142","Blyth Valley",NA
+"collision","local_authority_district","143","Castle Morpeth",NA
+"collision","local_authority_district","143","Castle Morpeth",NA
+"collision","local_authority_district","144","Tynedale",NA
+"collision","local_authority_district","145","Wansbeck",NA
+"collision","local_authority_district","146","Gateshead",NA
+"collision","local_authority_district","147","Newcastle upon Tyne",NA
+"collision","local_authority_district","148","North Tyneside",NA
+"collision","local_authority_district","149","South Tyneside",NA
+"collision","local_authority_district","150","Sunderland",NA
+"collision","local_authority_district","160","Chester-le-Street",NA
+"collision","local_authority_district","161","Darlington",NA
+"collision","local_authority_district","162","Derwentside",NA
+"collision","local_authority_district","163","Durham",NA
+"collision","local_authority_district","164","Easington",NA
+"collision","local_authority_district","165","Sedgefield",NA
+"collision","local_authority_district","166","Teesdale",NA
+"collision","local_authority_district","168","Wear Valley",NA
+"collision","local_authority_district","169","County Durham",NA
+"collision","local_authority_district","180","Craven",NA
+"collision","local_authority_district","181","Hambleton",NA
+"collision","local_authority_district","182","Harrogate",NA
+"collision","local_authority_district","184","Richmondshire",NA
+"collision","local_authority_district","185","Ryedale",NA
+"collision","local_authority_district","186","Scarborough",NA
+"collision","local_authority_district","187","Selby",NA
+"collision","local_authority_district","189","York",NA
+"collision","local_authority_district","200","Bradford",NA
+"collision","local_authority_district","202","Calderdale",NA
+"collision","local_authority_district","203","Kirklees",NA
+"collision","local_authority_district","204","Leeds",NA
+"collision","local_authority_district","206","Wakefield",NA
+"collision","local_authority_district","210","Barnsley",NA
+"collision","local_authority_district","211","Doncaster",NA
+"collision","local_authority_district","213","Rotherham",NA
+"collision","local_authority_district","215","Sheffield",NA
+"collision","local_authority_district","220","Beverley",NA
+"collision","local_authority_district","221","Boothferry",NA
+"collision","local_authority_district","224","Cleethorpes",NA
+"collision","local_authority_district","225","Glanford",NA
+"collision","local_authority_district","226","Grimsby",NA
+"collision","local_authority_district","227","Holderness",NA
+"collision","local_authority_district","228","Kingston upon Hull, City of",NA
+"collision","local_authority_district","229","East Yorkshire",NA
+"collision","local_authority_district","230","Scunthorpe",NA
+"collision","local_authority_district","231","East Riding of Yorkshire",NA
+"collision","local_authority_district","232","North Lincolnshire",NA
+"collision","local_authority_district","233","North East Lincolnshire",NA
+"collision","local_authority_district","240","Hartlepool",NA
+"collision","local_authority_district","241","Redcar and Cleveland",NA
+"collision","local_authority_district","243","Middlesbrough",NA
+"collision","local_authority_district","245","Stockton-on-Tees",NA
+"collision","local_authority_district","250","Cannock Chase",NA
+"collision","local_authority_district","251","East Staffordshire",NA
+"collision","local_authority_district","252","Lichfield",NA
+"collision","local_authority_district","253","Newcastle-under-Lyme",NA
+"collision","local_authority_district","254","South Staffordshire",NA
+"collision","local_authority_district","255","Stafford",NA
+"collision","local_authority_district","256","Staffordshire Moorlands",NA
+"collision","local_authority_district","257","Stoke-on-Trent",NA
+"collision","local_authority_district","258","Tamworth",NA
+"collision","local_authority_district","270","Bromsgrove",NA
+"collision","local_authority_district","271","Hereford",NA
+"collision","local_authority_district","272","Leominster",NA
+"collision","local_authority_district","273","Malvern Hills",NA
+"collision","local_authority_district","274","Redditch",NA
+"collision","local_authority_district","275","South Herefordshire",NA
+"collision","local_authority_district","276","Worcester",NA
+"collision","local_authority_district","277","Wychavon",NA
+"collision","local_authority_district","278","Wyre Forest",NA
+"collision","local_authority_district","279","Bridgnorth",NA
+"collision","local_authority_district","280","North Shropshire",NA
+"collision","local_authority_district","281","Oswestry",NA
+"collision","local_authority_district","282","Shrewsbury and Atcham",NA
+"collision","local_authority_district","283","South Shropshire",NA
+"collision","local_authority_district","284","Telford and Wrekin",NA
+"collision","local_authority_district","285","Herefordshire, County of",NA
+"collision","local_authority_district","286","Shropshire",NA
+"collision","local_authority_district","290","North Warwickshire",NA
+"collision","local_authority_district","291","Nuneaton and Bedworth",NA
+"collision","local_authority_district","292","Rugby",NA
+"collision","local_authority_district","293","Stratford-upon-Avon",NA
+"collision","local_authority_district","294","Warwick",NA
+"collision","local_authority_district","300","Birmingham",NA
+"collision","local_authority_district","302","Coventry",NA
+"collision","local_authority_district","303","Dudley",NA
+"collision","local_authority_district","305","Sandwell",NA
+"collision","local_authority_district","306","Solihull",NA
+"collision","local_authority_district","307","Walsall",NA
+"collision","local_authority_district","309","Wolverhampton",NA
+"collision","local_authority_district","320","Amber Valley",NA
+"collision","local_authority_district","321","Bolsover",NA
+"collision","local_authority_district","322","Chesterfield",NA
+"collision","local_authority_district","323","Derby",NA
+"collision","local_authority_district","324","Erewash",NA
+"collision","local_authority_district","325","High Peak",NA
+"collision","local_authority_district","327","North East Derbyshire",NA
+"collision","local_authority_district","328","South Derbyshire",NA
+"collision","local_authority_district","329","Derbyshire Dales",NA
+"collision","local_authority_district","340","Ashfield",NA
+"collision","local_authority_district","341","Bassetlaw",NA
+"collision","local_authority_district","342","Broxtowe",NA
+"collision","local_authority_district","343","Gedling",NA
+"collision","local_authority_district","344","Mansfield",NA
+"collision","local_authority_district","345","Newark and Sherwood",NA
+"collision","local_authority_district","346","Nottingham",NA
+"collision","local_authority_district","347","Rushcliffe",NA
+"collision","local_authority_district","350","Boston",NA
+"collision","local_authority_district","351","East Lindsey",NA
+"collision","local_authority_district","352","Lincoln",NA
+"collision","local_authority_district","353","North Kesteven",NA
+"collision","local_authority_district","354","South Holland",NA
+"collision","local_authority_district","355","South Kesteven",NA
+"collision","local_authority_district","356","West Lindsey",NA
+"collision","local_authority_district","360","Blaby",NA
+"collision","local_authority_district","361","Hinckley and Bosworth",NA
+"collision","local_authority_district","362","Charnwood",NA
+"collision","local_authority_district","363","Harborough",NA
+"collision","local_authority_district","364","Leicester",NA
+"collision","local_authority_district","365","Melton",NA
+"collision","local_authority_district","366","North West Leicestershire",NA
+"collision","local_authority_district","367","Oadby and Wigston",NA
+"collision","local_authority_district","368","Rutland",NA
+"collision","local_authority_district","380","Corby",NA
+"collision","local_authority_district","381","Daventry",NA
+"collision","local_authority_district","382","East Northamptonshire",NA
+"collision","local_authority_district","383","Kettering",NA
+"collision","local_authority_district","384","Northampton",NA
+"collision","local_authority_district","385","South Northamptonshire",NA
+"collision","local_authority_district","386","Wellingborough",NA
+"collision","local_authority_district","390","Cambridge",NA
+"collision","local_authority_district","391","East Cambridgeshire",NA
+"collision","local_authority_district","392","Fenland",NA
+"collision","local_authority_district","393","Huntingdonshire",NA
+"collision","local_authority_district","394","Peterborough",NA
+"collision","local_authority_district","395","South Cambridgeshire",NA
+"collision","local_authority_district","400","Breckland",NA
+"collision","local_authority_district","401","Broadland",NA
+"collision","local_authority_district","402","Great Yarmouth",NA
+"collision","local_authority_district","404","Norwich",NA
+"collision","local_authority_district","405","North Norfolk",NA
+"collision","local_authority_district","406","South Norfolk",NA
+"collision","local_authority_district","407","King's Lynn and West Norfolk",NA
+"collision","local_authority_district","410","Babergh",NA
+"collision","local_authority_district","411","Forest Heath",NA
+"collision","local_authority_district","412","Ipswich",NA
+"collision","local_authority_district","413","Mid Suffolk",NA
+"collision","local_authority_district","414","St. Edmundsbury",NA
+"collision","local_authority_district","415","Suffolk Coastal",NA
+"collision","local_authority_district","416","Waveney",NA
+"collision","local_authority_district","420","Bedford",NA
+"collision","local_authority_district","421","Luton",NA
+"collision","local_authority_district","422","Mid Bedfordshire",NA
+"collision","local_authority_district","423","South Bedfordshire",NA
+"collision","local_authority_district","424","Central Bedfordshire",NA
+"collision","local_authority_district","430","Broxbourne",NA
+"collision","local_authority_district","431","Dacorum",NA
+"collision","local_authority_district","432","East Hertfordshire",NA
+"collision","local_authority_district","433","North Hertfordshire",NA
+"collision","local_authority_district","434","St. Albans",NA
+"collision","local_authority_district","435","Stevenage",NA
+"collision","local_authority_district","436","Three Rivers",NA
+"collision","local_authority_district","437","Watford",NA
+"collision","local_authority_district","438","Welwyn Hatfield",NA
+"collision","local_authority_district","450","Basildon",NA
+"collision","local_authority_district","451","Braintree",NA
+"collision","local_authority_district","452","Brentwood",NA
+"collision","local_authority_district","453","Castle Point",NA
+"collision","local_authority_district","454","Chelmsford",NA
+"collision","local_authority_district","455","Colchester",NA
+"collision","local_authority_district","456","Epping Forest",NA
+"collision","local_authority_district","457","Harlow",NA
+"collision","local_authority_district","458","Maldon",NA
+"collision","local_authority_district","459","Rochford",NA
+"collision","local_authority_district","460","Southend-on-Sea",NA
+"collision","local_authority_district","461","Tendring",NA
+"collision","local_authority_district","462","Thurrock",NA
+"collision","local_authority_district","463","Uttlesford",NA
+"collision","local_authority_district","470","Bracknell Forest",NA
+"collision","local_authority_district","471","West Berkshire",NA
+"collision","local_authority_district","472","Reading",NA
+"collision","local_authority_district","473","Slough",NA
+"collision","local_authority_district","474","Windsor and Maidenhead",NA
+"collision","local_authority_district","475","Wokingham",NA
+"collision","local_authority_district","476","Aylesbury Vale",NA
+"collision","local_authority_district","477","South Bucks",NA
+"collision","local_authority_district","478","Chiltern",NA
+"collision","local_authority_district","479","Milton Keynes",NA
+"collision","local_authority_district","480","Wycombe",NA
+"collision","local_authority_district","481","Cherwell",NA
+"collision","local_authority_district","482","Oxford",NA
+"collision","local_authority_district","483","Vale of White Horse",NA
+"collision","local_authority_district","484","South Oxfordshire",NA
+"collision","local_authority_district","485","West Oxfordshire",NA
+"collision","local_authority_district","490","Basingstoke and Deane",NA
+"collision","local_authority_district","491","Eastleigh",NA
+"collision","local_authority_district","492","Fareham",NA
+"collision","local_authority_district","493","Gosport",NA
+"collision","local_authority_district","494","Hart",NA
+"collision","local_authority_district","495","Havant",NA
+"collision","local_authority_district","496","New Forest",NA
+"collision","local_authority_district","497","East Hampshire",NA
+"collision","local_authority_district","498","Portsmouth",NA
+"collision","local_authority_district","499","Rushmoor",NA
+"collision","local_authority_district","500","Southampton",NA
+"collision","local_authority_district","501","Test Valley",NA
+"collision","local_authority_district","502","Winchester",NA
+"collision","local_authority_district","503","Medina",NA
+"collision","local_authority_district","504","South Wight",NA
+"collision","local_authority_district","505","Isle of Wight",NA
+"collision","local_authority_district","510","Elmbridge",NA
+"collision","local_authority_district","511","Guildford",NA
+"collision","local_authority_district","512","Mole Valley",NA
+"collision","local_authority_district","513","Reigate and Banstead",NA
+"collision","local_authority_district","514","Runnymede",NA
+"collision","local_authority_district","515","Surrey Heath",NA
+"collision","local_authority_district","516","Tandridge",NA
+"collision","local_authority_district","517","Waverley",NA
+"collision","local_authority_district","518","Woking",NA
+"collision","local_authority_district","530","Ashford",NA
+"collision","local_authority_district","531","Canterbury",NA
+"collision","local_authority_district","532","Dartford",NA
+"collision","local_authority_district","533","Dover",NA
+"collision","local_authority_district","534","Gillingham",NA
+"collision","local_authority_district","535","Gravesham",NA
+"collision","local_authority_district","536","Maidstone",NA
+"collision","local_authority_district","537","Rochester",NA
+"collision","local_authority_district","538","Sevenoaks",NA
+"collision","local_authority_district","539","Shepway",NA
+"collision","local_authority_district","540","Swale",NA
+"collision","local_authority_district","541","Thanet",NA
+"collision","local_authority_district","542","Tonbridge and Malling",NA
+"collision","local_authority_district","543","Tunbridge Wells",NA
+"collision","local_authority_district","544","Medway",NA
+"collision","local_authority_district","550","Brighton",NA
+"collision","local_authority_district","551","Eastbourne",NA
+"collision","local_authority_district","552","Hastings",NA
+"collision","local_authority_district","553","Hove",NA
+"collision","local_authority_district","554","Lewes",NA
+"collision","local_authority_district","555","Rother",NA
+"collision","local_authority_district","556","Wealden",NA
+"collision","local_authority_district","557","Adur",NA
+"collision","local_authority_district","558","Arun",NA
+"collision","local_authority_district","559","Chichester",NA
+"collision","local_authority_district","560","Crawley",NA
+"collision","local_authority_district","562","Horsham",NA
+"collision","local_authority_district","563","Mid Sussex",NA
+"collision","local_authority_district","564","Worthing",NA
+"collision","local_authority_district","565","Brighton and Hove",NA
+"collision","local_authority_district","570","City of London",NA
+"collision","local_authority_district","580","East Devon",NA
+"collision","local_authority_district","581","Exeter",NA
+"collision","local_authority_district","582","North Devon",NA
+"collision","local_authority_district","583","Plymouth",NA
+"collision","local_authority_district","584","South Hams",NA
+"collision","local_authority_district","585","Teignbridge",NA
+"collision","local_authority_district","586","Mid Devon",NA
+"collision","local_authority_district","587","Torbay",NA
+"collision","local_authority_district","588","Torridge",NA
+"collision","local_authority_district","589","West Devon",NA
+"collision","local_authority_district","590","Caradon",NA
+"collision","local_authority_district","591","Carrick",NA
+"collision","local_authority_district","592","Kerrier",NA
+"collision","local_authority_district","593","North Cornwall",NA
+"collision","local_authority_district","594","Penwith",NA
+"collision","local_authority_district","595","Restormel",NA
+"collision","local_authority_district","596","Cornwall",NA
+"collision","local_authority_district","599","Isles of Scilly",NA
+"collision","local_authority_district","600","Bath",NA
+"collision","local_authority_district","601","Bristol, City of",NA
+"collision","local_authority_district","602","Kingswood",NA
+"collision","local_authority_district","603","Northavon",NA
+"collision","local_authority_district","604","Wansdyke",NA
+"collision","local_authority_district","605","North Somerset",NA
+"collision","local_authority_district","606","Mendip",NA
+"collision","local_authority_district","607","Sedgemoor",NA
+"collision","local_authority_district","608","Taunton Deane",NA
+"collision","local_authority_district","609","West Somerset",NA
+"collision","local_authority_district","610","South Somerset",NA
+"collision","local_authority_district","611","Bath and North East Somerset",NA
+"collision","local_authority_district","612","South Gloucestershire",NA
+"collision","local_authority_district","620","Cheltenham",NA
+"collision","local_authority_district","621","Cotswold",NA
+"collision","local_authority_district","622","Forest of Dean",NA
+"collision","local_authority_district","623","Gloucester",NA
+"collision","local_authority_district","624","Stroud",NA
+"collision","local_authority_district","625","Tewkesbury",NA
+"collision","local_authority_district","630","Kennet",NA
+"collision","local_authority_district","631","North Wiltshire",NA
+"collision","local_authority_district","632","Salisbury",NA
+"collision","local_authority_district","633","Swindon",NA
+"collision","local_authority_district","634","West Wiltshire",NA
+"collision","local_authority_district","635","Wiltshire",NA
+"collision","local_authority_district","640","Bournemouth",NA
+"collision","local_authority_district","641","Christchurch",NA
+"collision","local_authority_district","642","North Dorset",NA
+"collision","local_authority_district","643","Poole",NA
+"collision","local_authority_district","644","Purbeck",NA
+"collision","local_authority_district","645","West Dorset",NA
+"collision","local_authority_district","646","Weymouth and Portland",NA
+"collision","local_authority_district","647","East Dorset",NA
+"collision","local_authority_district","660","Aberconwy",NA
+"collision","local_authority_district","661","Arfon",NA
+"collision","local_authority_district","662","Dwyfor",NA
+"collision","local_authority_district","663","Meirionnydd",NA
+"collision","local_authority_district","664","Ynys Mon - Isle of Anglesey",NA
+"collision","local_authority_district","665","Alyn-Deeside",NA
+"collision","local_authority_district","666","Colwyn",NA
+"collision","local_authority_district","667","Delwyn",NA
+"collision","local_authority_district","668","Glyndwr",NA
+"collision","local_authority_district","669","Rhuddlan",NA
+"collision","local_authority_district","670","Wrexham Maelor",NA
+"collision","local_authority_district","680","Blaenau Gwent",NA
+"collision","local_authority_district","682","Islwyn",NA
+"collision","local_authority_district","683","Monmouth",NA
+"collision","local_authority_district","684","Newport",NA
+"collision","local_authority_district","685","Torfaen",NA
+"collision","local_authority_district","690","Cynon Valley",NA
+"collision","local_authority_district","692","Merthyr Tydfil",NA
+"collision","local_authority_district","694","Ogwr",NA
+"collision","local_authority_district","695","Rhondda",NA
+"collision","local_authority_district","696","Rhymney Valley",NA
+"collision","local_authority_district","698","Taff-Ely",NA
+"collision","local_authority_district","699","Cardiff",NA
+"collision","local_authority_district","701","Vale of Glamorgan",NA
+"collision","local_authority_district","702","Afan",NA
+"collision","local_authority_district","703","Lliw Valley",NA
+"collision","local_authority_district","704","Neath",NA
+"collision","local_authority_district","705","Swansea",NA
+"collision","local_authority_district","710","Carmarthen",NA
+"collision","local_authority_district","711","Ceredigion",NA
+"collision","local_authority_district","712","Dinefwr",NA
+"collision","local_authority_district","713","Llanelli",NA
+"collision","local_authority_district","714","Preseli",NA
+"collision","local_authority_district","715","South Pembrokeshire",NA
+"collision","local_authority_district","716","Brecknock",NA
+"collision","local_authority_district","717","Montgomery",NA
+"collision","local_authority_district","718","Radnor",NA
+"collision","local_authority_district","720","Isle of Anglesey",NA
+"collision","local_authority_district","721","Conwy",NA
+"collision","local_authority_district","722","Gwynedd",NA
+"collision","local_authority_district","723","Denbighshire",NA
+"collision","local_authority_district","724","Flintshire",NA
+"collision","local_authority_district","725","Wrexham",NA
+"collision","local_authority_district","730","Blaenau Gwent",NA
+"collision","local_authority_district","731","Caerphilly",NA
+"collision","local_authority_district","732","Monmouthshire",NA
+"collision","local_authority_district","733","Newport",NA
+"collision","local_authority_district","734","Torfaen",NA
+"collision","local_authority_district","740","Bridgend",NA
+"collision","local_authority_district","741","Cardiff",NA
+"collision","local_authority_district","742","Merthyr Tydfil",NA
+"collision","local_authority_district","743","Neath Port Talbot",NA
+"collision","local_authority_district","744","Rhondda, Cynon, Taff",NA
+"collision","local_authority_district","745","Swansea",NA
+"collision","local_authority_district","746","The Vale of Glamorgan",NA
+"collision","local_authority_district","750","Ceredigion",NA
+"collision","local_authority_district","751","Carmarthenshire",NA
+"collision","local_authority_district","752","Pembrokeshire",NA
+"collision","local_authority_district","753","Powys",NA
+"collision","local_authority_district","801","Orkney",NA
+"collision","local_authority_district","802","Shetland",NA
+"collision","local_authority_district","803","Western Isles",NA
+"collision","local_authority_district","804","Caithness",NA
+"collision","local_authority_district","805","Sutherland",NA
+"collision","local_authority_district","806","Ross and Cromarty",NA
+"collision","local_authority_district","807","Skye and Lochalsh",NA
+"collision","local_authority_district","808","Lochaber",NA
+"collision","local_authority_district","809","Inverness",NA
+"collision","local_authority_district","810","Badenoch and Strathspey",NA
+"collision","local_authority_district","811","Nairn",NA
+"collision","local_authority_district","812","Aberdeen (City of)",NA
+"collision","local_authority_district","813","Moray",NA
+"collision","local_authority_district","814","Banff and Buchan",NA
+"collision","local_authority_district","815","Gordon",NA
+"collision","local_authority_district","816","Kincardine and Deeside",NA
+"collision","local_authority_district","817","Dundee (City of)",NA
+"collision","local_authority_district","818","Angus",NA
+"collision","local_authority_district","819","Perth and Kinross",NA
+"collision","local_authority_district","821","Kirkcaldy",NA
+"collision","local_authority_district","822","North East Fife",NA
+"collision","local_authority_district","823","Dunfermline",NA
+"collision","local_authority_district","824","Edinburgh (City of)",NA
+"collision","local_authority_district","825","West Lothian",NA
+"collision","local_authority_district","826","Midlothian",NA
+"collision","local_authority_district","827","East Lothian",NA
+"collision","local_authority_district","828","Tweeddale",NA
+"collision","local_authority_district","829","Ettrick and Lauderdale",NA
+"collision","local_authority_district","830","Roxburgh",NA
+"collision","local_authority_district","831","Berwickshire",NA
+"collision","local_authority_district","833","Clackmannan",NA
+"collision","local_authority_district","834","Stirling",NA
+"collision","local_authority_district","835","Falkirk",NA
+"collision","local_authority_district","836","Glasgow (City of)",NA
+"collision","local_authority_district","837","Argyll and Bute",NA
+"collision","local_authority_district","838","Dumbarton",NA
+"collision","local_authority_district","839","Clydebank",NA
+"collision","local_authority_district","840","Bearsden and Milngavie",NA
+"collision","local_authority_district","841","Strathkelvin",NA
+"collision","local_authority_district","842","Cumbernauld and Kilsyth",NA
+"collision","local_authority_district","843","Monklands",NA
+"collision","local_authority_district","844","Motherwell",NA
+"collision","local_authority_district","845","Hamilton",NA
+"collision","local_authority_district","846","East Kilbride",NA
+"collision","local_authority_district","847","Eastwood",NA
+"collision","local_authority_district","848","Lanark",NA
+"collision","local_authority_district","849","Renfrew",NA
+"collision","local_authority_district","850","Inverclyde",NA
+"collision","local_authority_district","851","Cunninghame",NA
+"collision","local_authority_district","852","Kilmarnock and Loudoun",NA
+"collision","local_authority_district","853","Kyle and Carrick",NA
+"collision","local_authority_district","854","Cumnock and Doon Valley",NA
+"collision","local_authority_district","856","Wigtown",NA
+"collision","local_authority_district","857","Stewartry",NA
+"collision","local_authority_district","858","Nithsdale",NA
+"collision","local_authority_district","859","Annandale and Eskdale",NA
+"collision","local_authority_district","910","Aberdeen City",NA
+"collision","local_authority_district","911","Aberdeenshire",NA
+"collision","local_authority_district","912","Angus",NA
+"collision","local_authority_district","913","Argyll and Bute",NA
+"collision","local_authority_district","914","Scottish Borders",NA
+"collision","local_authority_district","915","Clackmannanshire",NA
+"collision","local_authority_district","916","West Dunbartonshire",NA
+"collision","local_authority_district","917","Dumfries and Galloway",NA
+"collision","local_authority_district","918","Dundee City",NA
+"collision","local_authority_district","919","East Ayrshire",NA
+"collision","local_authority_district","920","East Dunbartonshire",NA
+"collision","local_authority_district","921","East Lothian",NA
+"collision","local_authority_district","922","East Renfrewshire",NA
+"collision","local_authority_district","923","Edinburgh, City of",NA
+"collision","local_authority_district","924","Falkirk",NA
+"collision","local_authority_district","925","Fife",NA
+"collision","local_authority_district","926","Glasgow City",NA
+"collision","local_authority_district","927","Highland",NA
+"collision","local_authority_district","928","Inverclyde",NA
+"collision","local_authority_district","929","Midlothian",NA
+"collision","local_authority_district","930","Moray",NA
+"collision","local_authority_district","931","North Ayrshire",NA
+"collision","local_authority_district","932","North Lanarkshire",NA
+"collision","local_authority_district","933","Orkney Islands",NA
+"collision","local_authority_district","934","Perth and Kinross",NA
+"collision","local_authority_district","935","Renfrewshire",NA
+"collision","local_authority_district","936","Shetland Islands",NA
+"collision","local_authority_district","937","South Ayrshire",NA
+"collision","local_authority_district","938","South Lanarkshire",NA
+"collision","local_authority_district","939","Stirling",NA
+"collision","local_authority_district","940","West Lothian",NA
+"collision","local_authority_district","941","Western Isles",NA
+"collision","local_authority_district","-1","Code deprecated",NA
+"collision","local_authority_ons_district","E06000001","Hartlepool",NA
+"collision","local_authority_ons_district","E06000002","Middlesbrough",NA
+"collision","local_authority_ons_district","E06000003","Redcar and Cleveland",NA
+"collision","local_authority_ons_district","E06000004","Stockton-on-Tees",NA
+"collision","local_authority_ons_district","E06000005","Darlington",NA
+"collision","local_authority_ons_district","E06000006","Halton",NA
+"collision","local_authority_ons_district","E06000007","Warrington",NA
+"collision","local_authority_ons_district","E06000008","Blackburn with Darwen",NA
+"collision","local_authority_ons_district","E06000009","Blackpool",NA
+"collision","local_authority_ons_district","E06000010","Kingston upon Hull, City of",NA
+"collision","local_authority_ons_district","E06000011","East Riding of Yorkshire",NA
+"collision","local_authority_ons_district","E06000012","North East Lincolnshire",NA
+"collision","local_authority_ons_district","E06000013","North Lincolnshire",NA
+"collision","local_authority_ons_district","E06000014","York",NA
+"collision","local_authority_ons_district","E06000015","Derby",NA
+"collision","local_authority_ons_district","E06000016","Leicester",NA
+"collision","local_authority_ons_district","E06000017","Rutland",NA
+"collision","local_authority_ons_district","E06000018","Nottingham",NA
+"collision","local_authority_ons_district","E06000019","Herefordshire, County of",NA
+"collision","local_authority_ons_district","E06000020","Telford and Wrekin",NA
+"collision","local_authority_ons_district","E06000021","Stoke-on-Trent",NA
+"collision","local_authority_ons_district","E06000022","Bath and North East Somerset",NA
+"collision","local_authority_ons_district","E06000023","Bristol, City of",NA
+"collision","local_authority_ons_district","E06000024","North Somerset",NA
+"collision","local_authority_ons_district","E06000025","South Gloucestershire",NA
+"collision","local_authority_ons_district","E06000026","Plymouth",NA
+"collision","local_authority_ons_district","E06000027","Torbay",NA
+"collision","local_authority_ons_district","E06000028","Bournemouth",NA
+"collision","local_authority_ons_district","E06000029","Poole",NA
+"collision","local_authority_ons_district","E06000030","Swindon",NA
+"collision","local_authority_ons_district","E06000031","Peterborough",NA
+"collision","local_authority_ons_district","E06000032","Luton",NA
+"collision","local_authority_ons_district","E06000033","Southend-on-Sea",NA
+"collision","local_authority_ons_district","E06000034","Thurrock",NA
+"collision","local_authority_ons_district","E06000035","Medway",NA
+"collision","local_authority_ons_district","E06000036","Bracknell Forest",NA
+"collision","local_authority_ons_district","E06000037","West Berkshire",NA
+"collision","local_authority_ons_district","E06000038","Reading",NA
+"collision","local_authority_ons_district","E06000039","Slough",NA
+"collision","local_authority_ons_district","E06000040","Windsor and Maidenhead",NA
+"collision","local_authority_ons_district","E06000041","Wokingham",NA
+"collision","local_authority_ons_district","E06000042","Milton Keynes",NA
+"collision","local_authority_ons_district","E06000043","Brighton and Hove",NA
+"collision","local_authority_ons_district","E06000044","Portsmouth",NA
+"collision","local_authority_ons_district","E06000045","Southampton",NA
+"collision","local_authority_ons_district","E06000046","Isle of Wight",NA
+"collision","local_authority_ons_district","E06000047","County Durham",NA
+"collision","local_authority_ons_district","E06000048","Northumberland",NA
+"collision","local_authority_ons_district","E06000049","Cheshire East",NA
+"collision","local_authority_ons_district","E06000050","Cheshire West and Chester",NA
+"collision","local_authority_ons_district","E06000051","Shropshire",NA
+"collision","local_authority_ons_district","E06000052","Cornwall",NA
+"collision","local_authority_ons_district","E06000053","Isles of Scilly",NA
+"collision","local_authority_ons_district","E06000054","Wiltshire",NA
+"collision","local_authority_ons_district","E06000055","Bedford",NA
+"collision","local_authority_ons_district","E06000056","Central Bedfordshire",NA
+"collision","local_authority_ons_district","E06000057","Northumberland",NA
+"collision","local_authority_ons_district","E06000058","Bournemouth, Christchurch and Poole",NA
+"collision","local_authority_ons_district","E06000059","Dorset (excluding Christchurch)",NA
+"collision","local_authority_ons_district","E06000060","Buckinghamshire",NA
+"collision","local_authority_ons_district","E06000061","North Northamptonshire",NA
+"collision","local_authority_ons_district","E06000062","West Northamptonshire",NA
+"collision","local_authority_ons_district","E06000063","Cumberland",NA
+"collision","local_authority_ons_district","E06000064","Westmorland and Furness",NA
+"collision","local_authority_ons_district","E06000065","North Yorkshire",NA
+"collision","local_authority_ons_district","E06000066","Somerset",NA
+"collision","local_authority_ons_district","E07000001","Mid Bedfordshire",NA
+"collision","local_authority_ons_district","E07000002","Bedford",NA
+"collision","local_authority_ons_district","E07000003","South Bedfordshire",NA
+"collision","local_authority_ons_district","E07000004","Aylesbury Vale",NA
+"collision","local_authority_ons_district","E07000005","Chiltern",NA
+"collision","local_authority_ons_district","E07000006","South Bucks",NA
+"collision","local_authority_ons_district","E07000007","Wycombe",NA
+"collision","local_authority_ons_district","E07000008","Cambridge",NA
+"collision","local_authority_ons_district","E07000009","East Cambridgeshire",NA
+"collision","local_authority_ons_district","E07000010","Fenland",NA
+"collision","local_authority_ons_district","E07000011","Huntingdonshire",NA
+"collision","local_authority_ons_district","E07000012","South Cambridgeshire",NA
+"collision","local_authority_ons_district","E07000019","Caradon",NA
+"collision","local_authority_ons_district","E07000020","Carrick",NA
+"collision","local_authority_ons_district","E07000021","Kerrier",NA
+"collision","local_authority_ons_district","E07000022","North Cornwall",NA
+"collision","local_authority_ons_district","E07000023","Penwith",NA
+"collision","local_authority_ons_district","E07000024","Restormel",NA
+"collision","local_authority_ons_district","E07000026","Allerdale",NA
+"collision","local_authority_ons_district","E07000027","Barrow-in-Furness",NA
+"collision","local_authority_ons_district","E07000028","Carlisle",NA
+"collision","local_authority_ons_district","E07000029","Copeland",NA
+"collision","local_authority_ons_district","E07000030","Eden",NA
+"collision","local_authority_ons_district","E07000031","South Lakeland",NA
+"collision","local_authority_ons_district","E07000032","Amber Valley",NA
+"collision","local_authority_ons_district","E07000033","Bolsover",NA
+"collision","local_authority_ons_district","E07000034","Chesterfield",NA
+"collision","local_authority_ons_district","E07000035","Derbyshire Dales",NA
+"collision","local_authority_ons_district","E07000036","Erewash",NA
+"collision","local_authority_ons_district","E07000037","High Peak",NA
+"collision","local_authority_ons_district","E07000038","North East Derbyshire",NA
+"collision","local_authority_ons_district","E07000039","South Derbyshire",NA
+"collision","local_authority_ons_district","E07000040","East Devon",NA
+"collision","local_authority_ons_district","E07000041","Exeter",NA
+"collision","local_authority_ons_district","E07000042","Mid Devon",NA
+"collision","local_authority_ons_district","E07000043","North Devon",NA
+"collision","local_authority_ons_district","E07000044","South Hams",NA
+"collision","local_authority_ons_district","E07000045","Teignbridge",NA
+"collision","local_authority_ons_district","E07000046","Torridge",NA
+"collision","local_authority_ons_district","E07000047","West Devon",NA
+"collision","local_authority_ons_district","E07000048","Christchurch",NA
+"collision","local_authority_ons_district","E07000049","East Dorset",NA
+"collision","local_authority_ons_district","E07000050","North Dorset",NA
+"collision","local_authority_ons_district","E07000051","Purbeck",NA
+"collision","local_authority_ons_district","E07000052","West Dorset",NA
+"collision","local_authority_ons_district","E07000053","Weymouth and Portland",NA
+"collision","local_authority_ons_district","E07000054","Chester-le-Street",NA
+"collision","local_authority_ons_district","E07000055","Derwentside",NA
+"collision","local_authority_ons_district","E07000056","Durham",NA
+"collision","local_authority_ons_district","E07000057","Easington",NA
+"collision","local_authority_ons_district","E07000058","Sedgefield",NA
+"collision","local_authority_ons_district","E07000059","Teesdale",NA
+"collision","local_authority_ons_district","E07000060","Wear Valley",NA
+"collision","local_authority_ons_district","E07000061","Eastbourne",NA
+"collision","local_authority_ons_district","E07000062","Hastings",NA
+"collision","local_authority_ons_district","E07000063","Lewes",NA
+"collision","local_authority_ons_district","E07000064","Rother",NA
+"collision","local_authority_ons_district","E07000065","Wealden",NA
+"collision","local_authority_ons_district","E07000066","Basildon",NA
+"collision","local_authority_ons_district","E07000067","Braintree",NA
+"collision","local_authority_ons_district","E07000068","Brentwood",NA
+"collision","local_authority_ons_district","E07000069","Castle Point",NA
+"collision","local_authority_ons_district","E07000070","Chelmsford",NA
+"collision","local_authority_ons_district","E07000071","Colchester",NA
+"collision","local_authority_ons_district","E07000072","Epping Forest",NA
+"collision","local_authority_ons_district","E07000073","Harlow",NA
+"collision","local_authority_ons_district","E07000074","Maldon",NA
+"collision","local_authority_ons_district","E07000075","Rochford",NA
+"collision","local_authority_ons_district","E07000076","Tendring",NA
+"collision","local_authority_ons_district","E07000077","Uttlesford",NA
+"collision","local_authority_ons_district","E07000078","Cheltenham",NA
+"collision","local_authority_ons_district","E07000079","Cotswold",NA
+"collision","local_authority_ons_district","E07000080","Forest of Dean",NA
+"collision","local_authority_ons_district","E07000081","Gloucester",NA
+"collision","local_authority_ons_district","E07000082","Stroud",NA
+"collision","local_authority_ons_district","E07000083","Tewkesbury",NA
+"collision","local_authority_ons_district","E07000084","Basingstoke and Deane",NA
+"collision","local_authority_ons_district","E07000085","East Hampshire",NA
+"collision","local_authority_ons_district","E07000086","Eastleigh",NA
+"collision","local_authority_ons_district","E07000087","Fareham",NA
+"collision","local_authority_ons_district","E07000088","Gosport",NA
+"collision","local_authority_ons_district","E07000089","Hart",NA
+"collision","local_authority_ons_district","E07000090","Havant",NA
+"collision","local_authority_ons_district","E07000091","New Forest",NA
+"collision","local_authority_ons_district","E07000092","Rushmoor",NA
+"collision","local_authority_ons_district","E07000093","Test Valley",NA
+"collision","local_authority_ons_district","E07000094","Winchester",NA
+"collision","local_authority_ons_district","E07000095","Broxbourne",NA
+"collision","local_authority_ons_district","E07000096","Dacorum",NA
+"collision","local_authority_ons_district","E07000097","East Hertfordshire",NA
+"collision","local_authority_ons_district","E07000098","Hertsmere",NA
+"collision","local_authority_ons_district","E07000099","North Hertfordshire",NA
+"collision","local_authority_ons_district","E07000100","St Albans",NA
+"collision","local_authority_ons_district","E07000101","Stevenage",NA
+"collision","local_authority_ons_district","E07000102","Three Rivers",NA
+"collision","local_authority_ons_district","E07000103","Watford",NA
+"collision","local_authority_ons_district","E07000104","Welwyn Hatfield",NA
+"collision","local_authority_ons_district","E07000105","Ashford",NA
+"collision","local_authority_ons_district","E07000106","Canterbury",NA
+"collision","local_authority_ons_district","E07000107","Dartford",NA
+"collision","local_authority_ons_district","E07000108","Dover",NA
+"collision","local_authority_ons_district","E07000109","Gravesham",NA
+"collision","local_authority_ons_district","E07000110","Maidstone",NA
+"collision","local_authority_ons_district","E07000111","Sevenoaks",NA
+"collision","local_authority_ons_district","E07000112","Shepway",NA
+"collision","local_authority_ons_district","E07000113","Swale",NA
+"collision","local_authority_ons_district","E07000114","Thanet",NA
+"collision","local_authority_ons_district","E07000115","Tonbridge and Malling",NA
+"collision","local_authority_ons_district","E07000116","Tunbridge Wells",NA
+"collision","local_authority_ons_district","E07000117","Burnley",NA
+"collision","local_authority_ons_district","E07000118","Chorley",NA
+"collision","local_authority_ons_district","E07000119","Fylde",NA
+"collision","local_authority_ons_district","E07000120","Hyndburn",NA
+"collision","local_authority_ons_district","E07000121","Lancaster",NA
+"collision","local_authority_ons_district","E07000122","Pendle",NA
+"collision","local_authority_ons_district","E07000123","Preston",NA
+"collision","local_authority_ons_district","E07000124","Ribble Valley",NA
+"collision","local_authority_ons_district","E07000125","Rossendale",NA
+"collision","local_authority_ons_district","E07000126","South Ribble",NA
+"collision","local_authority_ons_district","E07000127","West Lancashire",NA
+"collision","local_authority_ons_district","E07000128","Wyre",NA
+"collision","local_authority_ons_district","E07000129","Blaby",NA
+"collision","local_authority_ons_district","E07000130","Charnwood",NA
+"collision","local_authority_ons_district","E07000131","Harborough",NA
+"collision","local_authority_ons_district","E07000132","Hinckley and Bosworth",NA
+"collision","local_authority_ons_district","E07000133","Melton",NA
+"collision","local_authority_ons_district","E07000134","North West Leicestershire",NA
+"collision","local_authority_ons_district","E07000135","Oadby and Wigston",NA
+"collision","local_authority_ons_district","E07000136","Boston",NA
+"collision","local_authority_ons_district","E07000137","East Lindsey",NA
+"collision","local_authority_ons_district","E07000138","Lincoln",NA
+"collision","local_authority_ons_district","E07000139","North Kesteven",NA
+"collision","local_authority_ons_district","E07000140","South Holland",NA
+"collision","local_authority_ons_district","E07000141","South Kesteven",NA
+"collision","local_authority_ons_district","E07000142","West Lindsey",NA
+"collision","local_authority_ons_district","E07000143","Breckland",NA
+"collision","local_authority_ons_district","E07000144","Broadland",NA
+"collision","local_authority_ons_district","E07000145","Great Yarmouth",NA
+"collision","local_authority_ons_district","E07000146","King's Lynn and West Norfolk",NA
+"collision","local_authority_ons_district","E07000147","North Norfolk",NA
+"collision","local_authority_ons_district","E07000148","Norwich",NA
+"collision","local_authority_ons_district","E07000149","South Norfolk",NA
+"collision","local_authority_ons_district","E07000150","Corby",NA
+"collision","local_authority_ons_district","E07000151","Daventry",NA
+"collision","local_authority_ons_district","E07000152","East Northamptonshire",NA
+"collision","local_authority_ons_district","E07000153","Kettering",NA
+"collision","local_authority_ons_district","E07000154","Northampton",NA
+"collision","local_authority_ons_district","E07000155","South Northamptonshire",NA
+"collision","local_authority_ons_district","E07000156","Wellingborough",NA
+"collision","local_authority_ons_district","E07000163","Craven",NA
+"collision","local_authority_ons_district","E07000164","Hambleton",NA
+"collision","local_authority_ons_district","E07000165","Harrogate",NA
+"collision","local_authority_ons_district","E07000166","Richmondshire",NA
+"collision","local_authority_ons_district","E07000167","Ryedale",NA
+"collision","local_authority_ons_district","E07000168","Scarborough",NA
+"collision","local_authority_ons_district","E07000169","Selby",NA
+"collision","local_authority_ons_district","E07000170","Ashfield",NA
+"collision","local_authority_ons_district","E07000171","Bassetlaw",NA
+"collision","local_authority_ons_district","E07000172","Broxtowe",NA
+"collision","local_authority_ons_district","E07000173","Gedling",NA
+"collision","local_authority_ons_district","E07000174","Mansfield",NA
+"collision","local_authority_ons_district","E07000175","Newark and Sherwood",NA
+"collision","local_authority_ons_district","E07000176","Rushcliffe",NA
+"collision","local_authority_ons_district","E07000177","Cherwell",NA
+"collision","local_authority_ons_district","E07000178","Oxford",NA
+"collision","local_authority_ons_district","E07000179","South Oxfordshire",NA
+"collision","local_authority_ons_district","E07000180","Vale of White Horse",NA
+"collision","local_authority_ons_district","E07000181","West Oxfordshire",NA
+"collision","local_authority_ons_district","E07000187","Mendip",NA
+"collision","local_authority_ons_district","E07000188","Sedgemoor",NA
+"collision","local_authority_ons_district","E07000189","South Somerset",NA
+"collision","local_authority_ons_district","E07000190","Taunton Deane",NA
+"collision","local_authority_ons_district","E07000191","West Somerset",NA
+"collision","local_authority_ons_district","E07000192","Cannock Chase",NA
+"collision","local_authority_ons_district","E07000193","East Staffordshire",NA
+"collision","local_authority_ons_district","E07000194","Lichfield",NA
+"collision","local_authority_ons_district","E07000195","Newcastle-under-Lyme",NA
+"collision","local_authority_ons_district","E07000196","South Staffordshire",NA
+"collision","local_authority_ons_district","E07000197","Stafford",NA
+"collision","local_authority_ons_district","E07000198","Staffordshire Moorlands",NA
+"collision","local_authority_ons_district","E07000199","Tamworth",NA
+"collision","local_authority_ons_district","E07000200","Babergh",NA
+"collision","local_authority_ons_district","E07000201","Forest Heath",NA
+"collision","local_authority_ons_district","E07000202","Ipswich",NA
+"collision","local_authority_ons_district","E07000203","Mid Suffolk",NA
+"collision","local_authority_ons_district","E07000204","St Edmundsbury",NA
+"collision","local_authority_ons_district","E07000205","Suffolk Coastal",NA
+"collision","local_authority_ons_district","E07000206","Waveney",NA
+"collision","local_authority_ons_district","E07000207","Elmbridge",NA
+"collision","local_authority_ons_district","E07000208","Epsom and Ewell",NA
+"collision","local_authority_ons_district","E07000209","Guildford",NA
+"collision","local_authority_ons_district","E07000210","Mole Valley",NA
+"collision","local_authority_ons_district","E07000211","Reigate and Banstead",NA
+"collision","local_authority_ons_district","E07000212","Runnymede",NA
+"collision","local_authority_ons_district","E07000213","Spelthorne",NA
+"collision","local_authority_ons_district","E07000214","Surrey Heath",NA
+"collision","local_authority_ons_district","E07000215","Tandridge",NA
+"collision","local_authority_ons_district","E07000216","Waverley",NA
+"collision","local_authority_ons_district","E07000217","Woking",NA
+"collision","local_authority_ons_district","E07000218","North Warwickshire",NA
+"collision","local_authority_ons_district","E07000219","Nuneaton and Bedworth",NA
+"collision","local_authority_ons_district","E07000220","Rugby",NA
+"collision","local_authority_ons_district","E07000221","Stratford-on-Avon",NA
+"collision","local_authority_ons_district","E07000222","Warwick",NA
+"collision","local_authority_ons_district","E07000223","Adur",NA
+"collision","local_authority_ons_district","E07000224","Arun",NA
+"collision","local_authority_ons_district","E07000225","Chichester",NA
+"collision","local_authority_ons_district","E07000226","Crawley",NA
+"collision","local_authority_ons_district","E07000227","Horsham",NA
+"collision","local_authority_ons_district","E07000228","Mid Sussex",NA
+"collision","local_authority_ons_district","E07000229","Worthing",NA
+"collision","local_authority_ons_district","E07000234","Bromsgrove",NA
+"collision","local_authority_ons_district","E07000235","Malvern Hills",NA
+"collision","local_authority_ons_district","E07000236","Redditch",NA
+"collision","local_authority_ons_district","E07000237","Worcester",NA
+"collision","local_authority_ons_district","E07000238","Wychavon",NA
+"collision","local_authority_ons_district","E07000239","Wyre Forest",NA
+"collision","local_authority_ons_district","E07000240","St Albans",NA
+"collision","local_authority_ons_district","E07000241","Welwyn Hatfield",NA
+"collision","local_authority_ons_district","E07000242","East Hertfordshire",NA
+"collision","local_authority_ons_district","E07000243","Stevenage",NA
+"collision","local_authority_ons_district","E07000244","East Suffolk",NA
+"collision","local_authority_ons_district","E07000245","West Suffolk",NA
+"collision","local_authority_ons_district","E08000001","Bolton",NA
+"collision","local_authority_ons_district","E08000002","Bury",NA
+"collision","local_authority_ons_district","E08000003","Manchester",NA
+"collision","local_authority_ons_district","E08000004","Oldham",NA
+"collision","local_authority_ons_district","E08000005","Rochdale",NA
+"collision","local_authority_ons_district","E08000006","Salford",NA
+"collision","local_authority_ons_district","E08000007","Stockport",NA
+"collision","local_authority_ons_district","E08000008","Tameside",NA
+"collision","local_authority_ons_district","E08000009","Trafford",NA
+"collision","local_authority_ons_district","E08000010","Wigan",NA
+"collision","local_authority_ons_district","E08000011","Knowsley",NA
+"collision","local_authority_ons_district","E08000012","Liverpool",NA
+"collision","local_authority_ons_district","E08000013","St. Helens",NA
+"collision","local_authority_ons_district","E08000014","Sefton",NA
+"collision","local_authority_ons_district","E08000015","Wirral",NA
+"collision","local_authority_ons_district","E08000016","Barnsley",NA
+"collision","local_authority_ons_district","E08000017","Doncaster",NA
+"collision","local_authority_ons_district","E08000018","Rotherham",NA
+"collision","local_authority_ons_district","E08000019","Sheffield",NA
+"collision","local_authority_ons_district","E08000020","Gateshead",NA
+"collision","local_authority_ons_district","E08000021","Newcastle upon Tyne",NA
+"collision","local_authority_ons_district","E08000022","North Tyneside",NA
+"collision","local_authority_ons_district","E08000023","South Tyneside",NA
+"collision","local_authority_ons_district","E08000024","Sunderland",NA
+"collision","local_authority_ons_district","E08000025","Birmingham",NA
+"collision","local_authority_ons_district","E08000026","Coventry",NA
+"collision","local_authority_ons_district","E08000027","Dudley",NA
+"collision","local_authority_ons_district","E08000028","Sandwell",NA
+"collision","local_authority_ons_district","E08000029","Solihull",NA
+"collision","local_authority_ons_district","E08000030","Walsall",NA
+"collision","local_authority_ons_district","E08000031","Wolverhampton",NA
+"collision","local_authority_ons_district","E08000032","Bradford",NA
+"collision","local_authority_ons_district","E08000033","Calderdale",NA
+"collision","local_authority_ons_district","E08000034","Kirklees",NA
+"collision","local_authority_ons_district","E08000035","Leeds",NA
+"collision","local_authority_ons_district","E08000037","Gateshead",NA
+"collision","local_authority_ons_district","E08000036","Wakefield",NA
+"collision","local_authority_ons_district","E09000001","City of London",NA
+"collision","local_authority_ons_district","E09000001","City of London",NA
+"collision","local_authority_ons_district","E09000002","Barking and Dagenham",NA
+"collision","local_authority_ons_district","E09000003","Barnet",NA
+"collision","local_authority_ons_district","E09000004","Bexley",NA
+"collision","local_authority_ons_district","E09000005","Brent",NA
+"collision","local_authority_ons_district","E09000006","Bromley",NA
+"collision","local_authority_ons_district","E09000007","Camden",NA
+"collision","local_authority_ons_district","E09000008","Croydon",NA
+"collision","local_authority_ons_district","E09000009","Ealing",NA
+"collision","local_authority_ons_district","E09000010","Enfield",NA
+"collision","local_authority_ons_district","E09000011","Greenwich",NA
+"collision","local_authority_ons_district","E09000012","Hackney",NA
+"collision","local_authority_ons_district","E09000013","Hammersmith and Fulham",NA
+"collision","local_authority_ons_district","E09000014","Haringey",NA
+"collision","local_authority_ons_district","E09000015","Harrow",NA
+"collision","local_authority_ons_district","E09000016","Havering",NA
+"collision","local_authority_ons_district","E09000017","Hillingdon",NA
+"collision","local_authority_ons_district","E09000018","Hounslow",NA
+"collision","local_authority_ons_district","E09000019","Islington",NA
+"collision","local_authority_ons_district","E09000020","Kensington and Chelsea",NA
+"collision","local_authority_ons_district","E09000021","Kingston upon Thames",NA
+"collision","local_authority_ons_district","E09000022","Lambeth",NA
+"collision","local_authority_ons_district","E09000023","Lewisham",NA
+"collision","local_authority_ons_district","E09000024","Merton",NA
+"collision","local_authority_ons_district","E09000025","Newham",NA
+"collision","local_authority_ons_district","E09000026","Redbridge",NA
+"collision","local_authority_ons_district","E09000027","Richmond upon Thames",NA
+"collision","local_authority_ons_district","E09000028","Southwark",NA
+"collision","local_authority_ons_district","E09000029","Sutton",NA
+"collision","local_authority_ons_district","E09000030","Tower Hamlets",NA
+"collision","local_authority_ons_district","E09000031","Waltham Forest",NA
+"collision","local_authority_ons_district","E09000032","Wandsworth",NA
+"collision","local_authority_ons_district","E09000033","Westminster",NA
+"collision","local_authority_ons_district","E10000004","Cheshire",NA
+"collision","local_authority_ons_district","EHEATHROW","London Airport (Heathrow)",NA
+"collision","local_authority_ons_district","S12000005","Clackmannanshire",NA
+"collision","local_authority_ons_district","S12000006","Dumfries and Galloway",NA
+"collision","local_authority_ons_district","S12000008","East Ayrshire",NA
+"collision","local_authority_ons_district","S12000009","East Dunbartonshire",NA
+"collision","local_authority_ons_district","S12000010","East Lothian",NA
+"collision","local_authority_ons_district","S12000011","East Renfrewshire",NA
+"collision","local_authority_ons_district","S12000013","Comhairle nan Eilean Siar",NA
+"collision","local_authority_ons_district","S12000014","Falkirk",NA
+"collision","local_authority_ons_district","S12000015","Fife",NA
+"collision","local_authority_ons_district","S12000017","Highland",NA
+"collision","local_authority_ons_district","S12000018","Inverclyde",NA
+"collision","local_authority_ons_district","S12000019","Midlothian",NA
+"collision","local_authority_ons_district","S12000020","Moray",NA
+"collision","local_authority_ons_district","S12000021","North Ayrshire",NA
+"collision","local_authority_ons_district","S12000023","Orkney Islands",NA
+"collision","local_authority_ons_district","S12000024","Perth and Kinross",NA
+"collision","local_authority_ons_district","S12000026","Scottish Borders",NA
+"collision","local_authority_ons_district","S12000027","Shetland Islands",NA
+"collision","local_authority_ons_district","S12000028","South Ayrshire",NA
+"collision","local_authority_ons_district","S12000029","South Lanarkshire",NA
+"collision","local_authority_ons_district","S12000030","Stirling",NA
+"collision","local_authority_ons_district","S12000033","Aberdeen City",NA
+"collision","local_authority_ons_district","S12000034","Aberdeenshire",NA
+"collision","local_authority_ons_district","S12000035","Argyll and Bute",NA
+"collision","local_authority_ons_district","S12000036","City of Edinburgh",NA
+"collision","local_authority_ons_district","S12000038","Renfrewshire",NA
+"collision","local_authority_ons_district","S12000039","West Dunbartonshire",NA
+"collision","local_authority_ons_district","S12000040","West Lothian",NA
+"collision","local_authority_ons_district","S12000041","Angus",NA
+"collision","local_authority_ons_district","S12000042","Dundee City",NA
+"collision","local_authority_ons_district","S12000043","Glasgow City",NA
+"collision","local_authority_ons_district","S12000044","North Lanarkshire",NA
+"collision","local_authority_ons_district","S12000045","East Dunbartonshire",NA
+"collision","local_authority_ons_district","S12000046","Glasgow City",NA
+"collision","local_authority_ons_district","S12000047","Fife",NA
+"collision","local_authority_ons_district","S12000048","Perth and Kinross",NA
+"collision","local_authority_ons_district","S12000049","Glasgow City",NA
+"collision","local_authority_ons_district","S12000050","North Lanarkshire",NA
+"collision","local_authority_ons_district","W06000001","Isle of Anglesey",NA
+"collision","local_authority_ons_district","W06000002","Gwynedd",NA
+"collision","local_authority_ons_district","W06000003","Conwy",NA
+"collision","local_authority_ons_district","W06000004","Denbighshire",NA
+"collision","local_authority_ons_district","W06000005","Flintshire",NA
+"collision","local_authority_ons_district","W06000006","Wrexham",NA
+"collision","local_authority_ons_district","W06000008","Ceredigion",NA
+"collision","local_authority_ons_district","W06000009","Pembrokeshire",NA
+"collision","local_authority_ons_district","W06000010","Carmarthenshire",NA
+"collision","local_authority_ons_district","W06000011","Swansea",NA
+"collision","local_authority_ons_district","W06000012","Neath Port Talbot",NA
+"collision","local_authority_ons_district","W06000013","Bridgend",NA
+"collision","local_authority_ons_district","W06000014","Vale of Glamorgan",NA
+"collision","local_authority_ons_district","W06000015","Cardiff",NA
+"collision","local_authority_ons_district","W06000016","Rhondda Cynon Taf",NA
+"collision","local_authority_ons_district","W06000018","Caerphilly",NA
+"collision","local_authority_ons_district","W06000019","Blaenau Gwent",NA
+"collision","local_authority_ons_district","W06000020","Torfaen",NA
+"collision","local_authority_ons_district","W06000021","Monmouthshire",NA
+"collision","local_authority_ons_district","W06000022","Newport",NA
+"collision","local_authority_ons_district","W06000023","Powys",NA
+"collision","local_authority_ons_district","W06000024","Merthyr Tydfil",NA
+"collision","local_authority_ons_district","-1","Record predates use of local_authority_ons_district",NA
+"collision","local_authority_highway","E06000001","Hartlepool",NA
+"collision","local_authority_highway","E06000002","Middlesbrough",NA
+"collision","local_authority_highway","E06000003","Redcar and Cleveland",NA
+"collision","local_authority_highway","E06000004","Stockton-on-Tees",NA
+"collision","local_authority_highway","E06000005","Darlington",NA
+"collision","local_authority_highway","E06000006","Halton",NA
+"collision","local_authority_highway","E06000007","Warrington",NA
+"collision","local_authority_highway","E06000008","Blackburn with Darwen",NA
+"collision","local_authority_highway","E06000009","Blackpool",NA
+"collision","local_authority_highway","E06000010","Kingston upon Hull, City of",NA
+"collision","local_authority_highway","E06000011","East Riding of Yorkshire",NA
+"collision","local_authority_highway","E06000012","North East Lincolnshire",NA
+"collision","local_authority_highway","E06000013","North Lincolnshire",NA
+"collision","local_authority_highway","E06000014","York",NA
+"collision","local_authority_highway","E06000015","Derby",NA
+"collision","local_authority_highway","E06000016","Leicester",NA
+"collision","local_authority_highway","E06000017","Rutland",NA
+"collision","local_authority_highway","E06000018","Nottingham",NA
+"collision","local_authority_highway","E06000019","Herefordshire, County of",NA
+"collision","local_authority_highway","E06000020","Telford and Wrekin",NA
+"collision","local_authority_highway","E06000021","Stoke-on-Trent",NA
+"collision","local_authority_highway","E06000022","Bath and North East Somerset",NA
+"collision","local_authority_highway","E06000023","Bristol, City of",NA
+"collision","local_authority_highway","E06000024","North Somerset",NA
+"collision","local_authority_highway","E06000025","South Gloucestershire",NA
+"collision","local_authority_highway","E06000026","Plymouth",NA
+"collision","local_authority_highway","E06000027","Torbay",NA
+"collision","local_authority_highway","E06000028","Bournemouth",NA
+"collision","local_authority_highway","E06000029","Poole",NA
+"collision","local_authority_highway","E06000030","Swindon",NA
+"collision","local_authority_highway","E06000031","Peterborough",NA
+"collision","local_authority_highway","E06000032","Luton",NA
+"collision","local_authority_highway","E06000033","Southend-on-Sea",NA
+"collision","local_authority_highway","E06000034","Thurrock",NA
+"collision","local_authority_highway","E06000035","Medway",NA
+"collision","local_authority_highway","E06000036","Bracknell Forest",NA
+"collision","local_authority_highway","E06000037","West Berkshire",NA
+"collision","local_authority_highway","E06000038","Reading",NA
+"collision","local_authority_highway","E06000039","Slough",NA
+"collision","local_authority_highway","E06000040","Windsor and Maidenhead",NA
+"collision","local_authority_highway","E06000041","Wokingham",NA
+"collision","local_authority_highway","E06000042","Milton Keynes",NA
+"collision","local_authority_highway","E06000043","Brighton and Hove",NA
+"collision","local_authority_highway","E06000044","Portsmouth",NA
+"collision","local_authority_highway","E06000045","Southampton",NA
+"collision","local_authority_highway","E06000046","Isle of Wight",NA
+"collision","local_authority_highway","E06000047","County Durham",NA
+"collision","local_authority_highway","E06000048","Northumberland",NA
+"collision","local_authority_highway","E06000049","Cheshire East",NA
+"collision","local_authority_highway","E06000050","Cheshire West and Chester",NA
+"collision","local_authority_highway","E06000051","Shropshire",NA
+"collision","local_authority_highway","E06000052","Cornwall",NA
+"collision","local_authority_highway","E06000053","Isles of Scilly",NA
+"collision","local_authority_highway","E06000054","Wiltshire",NA
+"collision","local_authority_highway","E06000055","Bedford",NA
+"collision","local_authority_highway","E06000056","Central Bedfordshire",NA
+"collision","local_authority_highway","E06000057","Northumberland",NA
+"collision","local_authority_highway","E06000058","Bournemouth, Christchurch and Poole",NA
+"collision","local_authority_highway","E06000059","Dorset (excluding Christchurch)",NA
+"collision","local_authority_highway","E06000060","Buckinghamshire",NA
+"collision","local_authority_highway","E06000061","North Northamptonshire",NA
+"collision","local_authority_highway","E06000062","West Northamptonshire",NA
+"collision","local_authority_highway","E08000001","Bolton",NA
+"collision","local_authority_highway","E08000002","Bury",NA
+"collision","local_authority_highway","E08000003","Manchester",NA
+"collision","local_authority_highway","E08000004","Oldham",NA
+"collision","local_authority_highway","E08000005","Rochdale",NA
+"collision","local_authority_highway","E08000006","Salford",NA
+"collision","local_authority_highway","E08000007","Stockport",NA
+"collision","local_authority_highway","E08000008","Tameside",NA
+"collision","local_authority_highway","E08000009","Trafford",NA
+"collision","local_authority_highway","E08000010","Wigan",NA
+"collision","local_authority_highway","E08000011","Knowsley",NA
+"collision","local_authority_highway","E08000012","Liverpool",NA
+"collision","local_authority_highway","E08000013","St. Helens",NA
+"collision","local_authority_highway","E08000014","Sefton",NA
+"collision","local_authority_highway","E08000015","Wirral",NA
+"collision","local_authority_highway","E08000016","Barnsley",NA
+"collision","local_authority_highway","E08000017","Doncaster",NA
+"collision","local_authority_highway","E08000018","Rotherham",NA
+"collision","local_authority_highway","E08000019","Sheffield",NA
+"collision","local_authority_highway","E08000020","Gateshead",NA
+"collision","local_authority_highway","E08000021","Newcastle upon Tyne",NA
+"collision","local_authority_highway","E08000022","North Tyneside",NA
+"collision","local_authority_highway","E08000023","South Tyneside",NA
+"collision","local_authority_highway","E08000024","Sunderland",NA
+"collision","local_authority_highway","E08000025","Birmingham",NA
+"collision","local_authority_highway","E08000026","Coventry",NA
+"collision","local_authority_highway","E08000027","Dudley",NA
+"collision","local_authority_highway","E08000028","Sandwell",NA
+"collision","local_authority_highway","E08000029","Solihull",NA
+"collision","local_authority_highway","E08000030","Walsall",NA
+"collision","local_authority_highway","E08000031","Wolverhampton",NA
+"collision","local_authority_highway","E08000032","Bradford",NA
+"collision","local_authority_highway","E08000033","Calderdale",NA
+"collision","local_authority_highway","E08000034","Kirklees",NA
+"collision","local_authority_highway","E08000035","Leeds",NA
+"collision","local_authority_highway","E08000037","Gateshead",NA
+"collision","local_authority_highway","E08000036","Wakefield",NA
+"collision","local_authority_highway","E09000001","City of London",NA
+"collision","local_authority_highway","E09000002","Barking and Dagenham",NA
+"collision","local_authority_highway","E09000003","Barnet",NA
+"collision","local_authority_highway","E09000004","Bexley",NA
+"collision","local_authority_highway","E09000005","Brent",NA
+"collision","local_authority_highway","E09000006","Bromley",NA
+"collision","local_authority_highway","E09000007","Camden",NA
+"collision","local_authority_highway","E09000008","Croydon",NA
+"collision","local_authority_highway","E09000009","Ealing",NA
+"collision","local_authority_highway","E09000010","Enfield",NA
+"collision","local_authority_highway","E09000011","Greenwich",NA
+"collision","local_authority_highway","E09000012","Hackney",NA
+"collision","local_authority_highway","E09000013","Hammersmith and Fulham",NA
+"collision","local_authority_highway","E09000014","Haringey",NA
+"collision","local_authority_highway","E09000015","Harrow",NA
+"collision","local_authority_highway","E09000016","Havering",NA
+"collision","local_authority_highway","E09000017","Hillingdon",NA
+"collision","local_authority_highway","E09000018","Hounslow",NA
+"collision","local_authority_highway","E09000019","Islington",NA
+"collision","local_authority_highway","E09000020","Kensington and Chelsea",NA
+"collision","local_authority_highway","E09000021","Kingston upon Thames",NA
+"collision","local_authority_highway","E09000022","Lambeth",NA
+"collision","local_authority_highway","E09000023","Lewisham",NA
+"collision","local_authority_highway","E09000024","Merton",NA
+"collision","local_authority_highway","E09000025","Newham",NA
+"collision","local_authority_highway","E09000026","Redbridge",NA
+"collision","local_authority_highway","E09000027","Richmond upon Thames",NA
+"collision","local_authority_highway","E09000028","Southwark",NA
+"collision","local_authority_highway","E09000029","Sutton",NA
+"collision","local_authority_highway","E09000030","Tower Hamlets",NA
+"collision","local_authority_highway","E09000031","Waltham Forest",NA
+"collision","local_authority_highway","E09000032","Wandsworth",NA
+"collision","local_authority_highway","E09000033","Westminster",NA
+"collision","local_authority_highway","E10000002","Buckinghamshire",NA
+"collision","local_authority_highway","E10000003","Cambridgeshire",NA
+"collision","local_authority_highway","E10000006","Cumbria",NA
+"collision","local_authority_highway","E10000007","Derbyshire",NA
+"collision","local_authority_highway","E10000008","Devon",NA
+"collision","local_authority_highway","E10000009","Dorset",NA
+"collision","local_authority_highway","E10000011","East Sussex",NA
+"collision","local_authority_highway","E10000012","Essex",NA
+"collision","local_authority_highway","E10000013","Gloucestershire",NA
+"collision","local_authority_highway","E10000014","Hampshire",NA
+"collision","local_authority_highway","E10000015","Hertfordshire",NA
+"collision","local_authority_highway","E10000016","Kent",NA
+"collision","local_authority_highway","E10000017","Lancashire",NA
+"collision","local_authority_highway","E10000018","Leicestershire",NA
+"collision","local_authority_highway","E10000019","Lincolnshire",NA
+"collision","local_authority_highway","E10000020","Norfolk",NA
+"collision","local_authority_highway","E10000021","Northamptonshire",NA
+"collision","local_authority_highway","E10000023","North Yorkshire",NA
+"collision","local_authority_highway","E10000024","Nottinghamshire",NA
+"collision","local_authority_highway","E10000025","Oxfordshire",NA
+"collision","local_authority_highway","E10000027","Somerset",NA
+"collision","local_authority_highway","E10000028","Staffordshire",NA
+"collision","local_authority_highway","E10000029","Suffolk",NA
+"collision","local_authority_highway","E10000030","Surrey",NA
+"collision","local_authority_highway","E10000031","Warwickshire",NA
+"collision","local_authority_highway","E10000032","West Sussex",NA
+"collision","local_authority_highway","E10000034","Worcestershire",NA
+"collision","local_authority_highway","EHEATHROW","London Airport (Heathrow)",NA
+"collision","local_authority_highway","S12000005","Clackmannanshire",NA
+"collision","local_authority_highway","S12000006","Dumfries & Galloway",NA
+"collision","local_authority_highway","S12000008","East Ayrshire",NA
+"collision","local_authority_highway","S12000009","East Dunbartonshire",NA
+"collision","local_authority_highway","S12000010","East Lothian",NA
+"collision","local_authority_highway","S12000011","East Renfrewshire",NA
+"collision","local_authority_highway","S12000013","Na h-Eileanan an Iar (Western Isles)",NA
+"collision","local_authority_highway","S12000014","Falkirk",NA
+"collision","local_authority_highway","S12000015","Fife",NA
+"collision","local_authority_highway","S12000017","Highland",NA
+"collision","local_authority_highway","S12000018","Inverclyde",NA
+"collision","local_authority_highway","S12000019","Midlothian",NA
+"collision","local_authority_highway","S12000020","Moray",NA
+"collision","local_authority_highway","S12000021","North Ayrshire",NA
+"collision","local_authority_highway","S12000023","Orkney Islands",NA
+"collision","local_authority_highway","S12000024","Perth and Kinross",NA
+"collision","local_authority_highway","S12000026","Scottish Borders",NA
+"collision","local_authority_highway","S12000027","Shetland Islands",NA
+"collision","local_authority_highway","S12000028","South Ayrshire",NA
+"collision","local_authority_highway","S12000029","South Lanarkshire",NA
+"collision","local_authority_highway","S12000030","Stirling",NA
+"collision","local_authority_highway","S12000033","Aberdeen City",NA
+"collision","local_authority_highway","S12000034","Aberdeenshire",NA
+"collision","local_authority_highway","S12000035","Argyll & Bute",NA
+"collision","local_authority_highway","S12000036","Edinburgh, City of",NA
+"collision","local_authority_highway","S12000038","Renfrewshire",NA
+"collision","local_authority_highway","S12000039","West Dunbartonshire",NA
+"collision","local_authority_highway","S12000040","West Lothian",NA
+"collision","local_authority_highway","S12000041","Angus",NA
+"collision","local_authority_highway","S12000042","Dundee City",NA
+"collision","local_authority_highway","S12000043","Glasgow City",NA
+"collision","local_authority_highway","S12000044","North Lanarkshire",NA
+"collision","local_authority_highway","S12000045","East Dunbartonshire",NA
+"collision","local_authority_highway","S12000047","Fife",NA
+"collision","local_authority_highway","S12000048","Perth and Kinross",NA
+"collision","local_authority_highway","S12000049","Glasgow City",NA
+"collision","local_authority_highway","S12000050","North Lanarkshire",NA
+"collision","local_authority_highway","W06000001","Isle of Anglesey",NA
+"collision","local_authority_highway","W06000002","Gwynedd",NA
+"collision","local_authority_highway","W06000003","Conwy",NA
+"collision","local_authority_highway","W06000004","Denbighshire",NA
+"collision","local_authority_highway","W06000005","Flintshire",NA
+"collision","local_authority_highway","W06000006","Wrexham",NA
+"collision","local_authority_highway","W06000008","Ceredigion",NA
+"collision","local_authority_highway","W06000009","Pembrokeshire",NA
+"collision","local_authority_highway","W06000010","Carmarthenshire",NA
+"collision","local_authority_highway","W06000011","Swansea",NA
+"collision","local_authority_highway","W06000012","Neath Port Talbot",NA
+"collision","local_authority_highway","W06000013","Bridgend",NA
+"collision","local_authority_highway","W06000014","The Vale of Glamorgan",NA
+"collision","local_authority_highway","W06000015","Cardiff",NA
+"collision","local_authority_highway","W06000016","Rhondda, Cynon, Taff",NA
+"collision","local_authority_highway","W06000018","Caerphilly",NA
+"collision","local_authority_highway","W06000019","Blaenau Gwent",NA
+"collision","local_authority_highway","W06000020","Torfaen",NA
+"collision","local_authority_highway","W06000021","Monmouthshire",NA
+"collision","local_authority_highway","W06000022","Newport",NA
+"collision","local_authority_highway","W06000023","Powys",NA
+"collision","local_authority_highway","W06000024","Merthyr Tydfil",NA
+"collision","local_authority_highway","-1","Record predates use of local_authority_highway codes",NA
+"collision","local_authority_highway_current","See latest ONS code list","https://geoportal.statistics.gov.uk/search?q=NAC_CTYUA&sort=Date%20Created%7Ccreated%7Cdesc","Field introdcued with 2024 data and maps all collisions to the lastest ONS boundaries (back to 2004) based on the recorded collision location"
+"collision","first_road_class","1","Motorway",NA
+"collision","first_road_class","2","A(M)",NA
+"collision","first_road_class","3","A",NA
+"collision","first_road_class","4","B",NA
+"collision","first_road_class","5","C",NA
+"collision","first_road_class","6","Unclassified",NA
+"collision","first_road_class","-1","Data missing or out of range",NA
+"collision","first_road_number","1 to 9999","Number range",NA
+"collision","first_road_number","-1","Unknown",NA
+"collision","first_road_number","0","first_road_class is C or Unclassified. These roads do not have official numbers so recorded as zero",NA
+"collision","road_type","1","Roundabout",NA
+"collision","road_type","2","One way street",NA
+"collision","road_type","3","Dual carriageway",NA
+"collision","road_type","6","Single carriageway",NA
+"collision","road_type","7","Slip road",NA
+"collision","road_type","9","Unknown",NA
+"collision","road_type","12","One way street/Slip road",NA
+"collision","road_type","-1","Data missing or out of range",NA
+"collision","speed_limit","-1","Data missing or out of range",NA
+"collision","speed_limit","99","unknown (self reported)",NA
+"collision","junction_detail_historic","0","Not at junction or within 20 metres","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","1","Roundabout","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","2","Mini-roundabout","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","3","T or staggered junction","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","5","Slip road","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","6","Crossroads","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","7","More than 4 arms (not roundabout)","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","8","Private drive or entrance","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","9","Other junction","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","99","unknown (self reported)","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail_historic","-1","Data missing or out of range","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","junction_detail","0","Not at junction or within 20 metres","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","junction_detail","13","T or staggered junction","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","junction_detail","16","Crossroads","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","junction_detail","17","Junction with more than four arms (not roundabout)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","junction_detail","18","Using private drive or entrance","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","junction_detail","19","Other junction","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","junction_detail","99","unknown (self reported)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","junction_detail","-1","Data missing or out of range","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","junction_control","0","Not at junction or within 20 metres",NA
+"collision","junction_control","1","Authorised person",NA
+"collision","junction_control","2","Auto traffic signal",NA
+"collision","junction_control","3","Stop sign",NA
+"collision","junction_control","4","Give way or uncontrolled",NA
+"collision","junction_control","-1","Data missing or out of range",NA
+"collision","junction_control","9","unknown (self reported)",NA
+"collision","second_road_class","0","Not at junction or within 20 metres",NA
+"collision","second_road_class","1","Motorway",NA
+"collision","second_road_class","2","A(M)",NA
+"collision","second_road_class","3","A",NA
+"collision","second_road_class","4","B",NA
+"collision","second_road_class","5","C",NA
+"collision","second_road_class","6","Unclassified",NA
+"collision","second_road_class","9","Unknown (self rep only)",NA
+"collision","second_road_class","-1","Data missing or out of range",NA
+"collision","second_road_number","1 to 9999","Number range",NA
+"collision","second_road_number","-1","Unknown",NA
+"collision","second_road_number","0","first_road_class is C or Unclassified. These roads do not have official numbers so recorded as zero",NA
+"collision","pedestrian_crossing_human_control_historic","0","None within 50 metres","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_human_control_historic","1","Control by school crossing patrol","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_human_control_historic","2","Control by other authorised person","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_human_control_historic","-1","Data missing or out of range","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_human_control_historic","9","unknown (self reported)","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_physical_facilities_historic","0","No physical crossing facilities within 50 metres","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_physical_facilities_historic","1","Zebra","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_physical_facilities_historic","4","Pelican, puffin, toucan or similar non-junction pedestrian light crossing","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_physical_facilities_historic","5","Pedestrian phase at traffic signal junction","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_physical_facilities_historic","7","Footbridge or subway","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_physical_facilities_historic","8","Central refuge","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_physical_facilities_historic","-1","Data missing or out of range","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing_physical_facilities_historic","9","unknown (self reported)","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","pedestrian_crossing","0","No physical crossing facility within 50m","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","11","Human crossing control by school crossing patrol","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","12","Human crossing control by other authorised person","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","13","Zebra crossing","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","14","Pedestrian light crossing (pelican or puffin or toucan or similar)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","15","Pedestrian phase at traffic signal","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","16","Footbridge or subway","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","17","Central refuge - no other controls","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","99","unknown (self reported)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","pedestrian_crossing","-1","Data missing or out of range","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","light_conditions","1","Daylight",NA
+"collision","light_conditions","4","Darkness - lights lit",NA
+"collision","light_conditions","5","Darkness - lights unlit",NA
+"collision","light_conditions","6","Darkness - no lighting",NA
+"collision","light_conditions","7","Darkness - lighting unknown",NA
+"collision","light_conditions","-1","Data missing or out of range",NA
+"collision","weather_conditions","1","Fine no high winds",NA
+"collision","weather_conditions","2","Raining no high winds",NA
+"collision","weather_conditions","3","Snowing no high winds",NA
+"collision","weather_conditions","4","Fine + high winds",NA
+"collision","weather_conditions","5","Raining + high winds",NA
+"collision","weather_conditions","6","Snowing + high winds",NA
+"collision","weather_conditions","7","Fog or mist",NA
+"collision","weather_conditions","8","Other",NA
+"collision","weather_conditions","9","Unknown",NA
+"collision","weather_conditions","-1","Data missing or out of range",NA
+"collision","road_surface_conditions","1","Dry",NA
+"collision","road_surface_conditions","2","Wet or damp",NA
+"collision","road_surface_conditions","3","Snow",NA
+"collision","road_surface_conditions","4","Frost or ice",NA
+"collision","road_surface_conditions","5","Flood over 3cm. deep",NA
+"collision","road_surface_conditions","6","Oil or diesel",NA
+"collision","road_surface_conditions","7","Mud",NA
+"collision","road_surface_conditions","-1","Data missing or out of range",NA
+"collision","road_surface_conditions","9","unknown (self reported)",NA
+"collision","special_conditions_at_site","0","None",NA
+"collision","special_conditions_at_site","1","Auto traffic signal - out",NA
+"collision","special_conditions_at_site","2","Auto signal part defective",NA
+"collision","special_conditions_at_site","3","Road sign or marking defective or obscured",NA
+"collision","special_conditions_at_site","4","Roadworks",NA
+"collision","special_conditions_at_site","5","Road surface defective",NA
+"collision","special_conditions_at_site","6","Oil or diesel",NA
+"collision","special_conditions_at_site","7","Mud",NA
+"collision","special_conditions_at_site","-1","Data missing or out of range",NA
+"collision","special_conditions_at_site","9","unknown (self reported)",NA
+"collision","carriageway_hazards_historic","0","None","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","1","Vehicle load on road","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","2","Other object on road","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","3","Previous accident","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","4","Dog on road","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","5","Other animal on road","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","6","Pedestrian in carriageway - not injured","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","7","Any animal in carriageway (except ridden horse)","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","-1","Data missing or out of range","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards_historic","9","unknown (self reported)","data collected in the 2011 STATS19 specification (or earlier)"
+"collision","carriageway_hazards","0","None","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","11","Defective traffic signals","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","12","Permanent road signing or markings defective or obscured or inadequate","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","13","Roadworks","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","14","Oil or diesel","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","15","Mud","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","16","Dislodged vehicle load in carriageway","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","17","Other object in carriageway","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","18","Involvement with previous collision","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","19","Pedestrian in carriageway - not injured","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","20","Any animal in carriageway (except ridden horse)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","21","Poor or defective road surface","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","-1","Data missing or out of range","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","carriageway_hazards","99","unknown (self reported)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"collision","urban_or_rural_area","1","Urban","field introduced in 1994"
+"collision","urban_or_rural_area","2","Rural","field introduced in 1994"
+"collision","urban_or_rural_area","3","Unallocated","field introduced in 1994"
+"collision","urban_or_rural_area","-1","Data missing or out of range","field introduced in 1994"
+"collision","did_police_officer_attend_scene_of_collision","1","Yes",NA
+"collision","did_police_officer_attend_scene_of_collision","2","No",NA
+"collision","did_police_officer_attend_scene_of_collision","3","No - accident was reported using a self completion  form (self rep only)",NA
+"collision","did_police_officer_attend_scene_of_collision","-1","Data missing or out of range",NA
+"collision","did_police_officer_attend_scene_of_accident","1","Yes",NA
+"collision","did_police_officer_attend_scene_of_accident","2","No",NA
+"collision","did_police_officer_attend_scene_of_accident","3","No - accident was reported using a self completion  form (self rep only)",NA
+"collision","did_police_officer_attend_scene_of_accident","-1","Data missing or out of range",NA
+"collision","trunk_road_flag","1","Trunk (Roads managed by Highways England)",NA
+"collision","trunk_road_flag","2","Non-trunk",NA
+"collision","trunk_road_flag","-1","Data missing or out of range",NA
+"collision","collision_injury_based","0","Based on severity reporting",NA
+"collision","collision_injury_based","1","Based on Injury code reporting",NA
+"vehicle","vehicle_type","1","Pedal cycle",NA
+"vehicle","vehicle_type","2","Motorcycle 50cc and under",NA
+"vehicle","vehicle_type","3","Motorcycle 125cc and under","category introduced in 1999 specification"
+"vehicle","vehicle_type","4","Motorcycle over 125cc and up to 500cc","category introduced in 2005 specification"
+"vehicle","vehicle_type","5","Motorcycle over 500cc","category introduced in 2005 specification"
+"vehicle","vehicle_type","8","Taxi/Private hire car","category introduced in 2005 specification"
+"vehicle","vehicle_type","9","Car","category introduced in 2005 specification"
+"vehicle","vehicle_type","10","Minibus (8 - 16 passenger seats)","category introduced in 1999 specification"
+"vehicle","vehicle_type","11","Bus or coach (17 or more pass seats)",NA
+"vehicle","vehicle_type","16","Ridden horse","category introduced in 1999 specification"
+"vehicle","vehicle_type","17","Agricultural vehicle","category introduced in 1999 specification"
+"vehicle","vehicle_type","18","Tram","category introduced in 1999 specification"
+"vehicle","vehicle_type","19","Van / Goods 3.5 tonnes mgw or under",NA
+"vehicle","vehicle_type","20","Goods over 3.5t. and under 7.5t","category introduced in 1999 specification"
+"vehicle","vehicle_type","21","Goods 7.5 tonnes mgw and over","category introduced in 1999 specification"
+"vehicle","vehicle_type","22","Mobility scooter","cateogry introduced in 2011 specification"
+"vehicle","vehicle_type","23","Electric motorcycle","cateogry introduced in 2011 specification"
+"vehicle","vehicle_type","33","Personal powered transporter","cateogry introduced in 2024 specification"
+"vehicle","vehicle_type","90","Other vehicle","cateogry introduced in 2011 specification"
+"vehicle","vehicle_type","97","Motorcycle - unknown cc","cateogry introduced in 2011 specification"
+"vehicle","vehicle_type","98","Goods vehicle - unknown weight","cateogry introduced in 2011 specification"
+"vehicle","vehicle_type","99","Unknown vehicle type (self rep only)","cateogry introduced in 2011 specification"
+"vehicle","vehicle_type","103","Motorcycle - Scooter (1979-1998)","cateogory discontinued in 1999 specification"
+"vehicle","vehicle_type","104","Motorcycle (1979-1998)","cateogory discontinued in 1999 specification"
+"vehicle","vehicle_type","105","Motorcycle - Combination (1979-1998)","cateogory discontinued in 1999 specification"
+"vehicle","vehicle_type","106","Motorcycle over 125cc (1999-2004)","cateogory discontinued in 2005 specification"
+"vehicle","vehicle_type","108","Taxi (excluding private hire cars) (1979-2004)","cateogory discontinued in 2005 specification"
+"vehicle","vehicle_type","109","Car (including private hire cars) (1979-2004)","cateogory discontinued in 2005 specification"
+"vehicle","vehicle_type","110","Minibus/Motor caravan (1979-1998)","cateogory discontinued in 1999 specification"
+"vehicle","vehicle_type","113","Goods over 3.5 tonnes (1979-1998)","cateogory discontinued in 1999 specification"
+"vehicle","vehicle_type","-1","Data missing or out of range",NA
+"vehicle","towing_and_articulation","0","No tow/articulation",NA
+"vehicle","towing_and_articulation","1","Articulated vehicle",NA
+"vehicle","towing_and_articulation","2","Double or multiple trailer",NA
+"vehicle","towing_and_articulation","3","Caravan",NA
+"vehicle","towing_and_articulation","4","Single trailer",NA
+"vehicle","towing_and_articulation","5","Other tow",NA
+"vehicle","towing_and_articulation","9","unknown (self reported)",NA
+"vehicle","towing_and_articulation","-1","Data missing or out of range",NA
+"vehicle","vehicle_manoeuvre_historic","1","Reversing","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","2","Parked","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","3","Waiting to go - held up","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","4","Slowing or stopping","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","5","Moving off","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","6","U-turn","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","7","Turning left","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","8","Waiting to turn left","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","9","Turning right","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","10","Waiting to turn right","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","11","Changing lane to left","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","12","Changing lane to right","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","13","Overtaking moving vehicle - offside","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","14","Overtaking static vehicle - offside","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","15","Overtaking - nearside","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","16","Going ahead left-hand bend","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","17","Going ahead right-hand bend","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","18","Going ahead other","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","99","unknown (self reported)","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre_historic","-1","Data missing or out of range","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_manoeuvre","1","Reversing","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","2","Parked","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","3","Waiting to go ahead","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","4","Slowing or stopping","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","5","Moving off","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","6","U-turn","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","7","Turning left","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","8","Waiting to turn left","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","9","Turning right","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","10","Waiting to turn right","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","11","Changing lane to left","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","12","Changing lane to right","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","13","Over taking moving vehicle on its offside","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","14","Overtaking stationary vehicle on its offside","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","15","Overtaking on nearside (passengers side nearest kerb)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","19","Going ahead","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","20","Parking","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","99","unknown (self reported)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_manoeuvre","-1","Data missing or out of range","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_direction_from","0","Parked","both vehicle_direction_from and vehicle_direction_to should be 0"
+"vehicle","vehicle_direction_from","1","North",NA
+"vehicle","vehicle_direction_from","2","North East",NA
+"vehicle","vehicle_direction_from","3","East",NA
+"vehicle","vehicle_direction_from","4","South East",NA
+"vehicle","vehicle_direction_from","5","South",NA
+"vehicle","vehicle_direction_from","6","South West",NA
+"vehicle","vehicle_direction_from","7","West",NA
+"vehicle","vehicle_direction_from","8","North West",NA
+"vehicle","vehicle_direction_from","9","unknown (self reported)","both vehicle_direction_from and vehicle_direction_to should be 9"
+"vehicle","vehicle_direction_from","-1","Data missing or out of range",NA
+"vehicle","vehicle_direction_to","0","Parked","both vehicle_direction_from and vehicle_direction_to should be 0"
+"vehicle","vehicle_direction_to","1","North",NA
+"vehicle","vehicle_direction_to","2","North East",NA
+"vehicle","vehicle_direction_to","3","East",NA
+"vehicle","vehicle_direction_to","4","South East",NA
+"vehicle","vehicle_direction_to","5","South",NA
+"vehicle","vehicle_direction_to","6","South West",NA
+"vehicle","vehicle_direction_to","7","West",NA
+"vehicle","vehicle_direction_to","8","North West",NA
+"vehicle","vehicle_direction_to","9","unknown (self reported)","both vehicle_direction_from and vehicle_direction_to should be 9"
+"vehicle","vehicle_direction_to","-1","Data missing or out of range",NA
+"vehicle","vehicle_location_restricted_lane_historic","0","On main c'way - not in restricted lane","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","1","Tram/Light rail track","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","2","Bus lane","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","3","Busway (including guided busway)","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","4","Cycle lane (on main carriageway)","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","5","Cycleway or shared use footway (not part of  main carriageway)","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","6","On lay-by or hard shoulder","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","7","Entering lay-by or hard shoulder","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","8","Leaving lay-by or hard shoulder","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","9","Footway (pavement)","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","10","Not on carriageway","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","99","unknown (self reported)","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane_historic","-1","Data missing or out of range","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","vehicle_location_restricted_lane","0","On main carriageway (not in restricted lane)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_location_restricted_lane","1","Tram or Light rail track","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_location_restricted_lane","2","Bus lane or Busway","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_location_restricted_lane","4","Cycle lane (on main carriageway)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_location_restricted_lane","5","Cycleway or shared use footway (not part of main carriageway)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_location_restricted_lane","6","Lay-by or hard shoulder","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_location_restricted_lane","9","Footway (pavement)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_location_restricted_lane","99","unknown (self reported)","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","vehicle_location_restricted_lane","-1","Data missing or out of range","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","junction_location","0","Not at or within 20 metres of junction",NA
+"vehicle","junction_location","1","Approaching junction or waiting/parked at junction approach",NA
+"vehicle","junction_location","2","Cleared junction or waiting/parked at junction exit",NA
+"vehicle","junction_location","3","Leaving roundabout",NA
+"vehicle","junction_location","4","Entering roundabout",NA
+"vehicle","junction_location","5","Leaving main road",NA
+"vehicle","junction_location","6","Entering main road",NA
+"vehicle","junction_location","7","Entering from slip road",NA
+"vehicle","junction_location","8","Mid Junction - on roundabout or on main road",NA
+"vehicle","junction_location","9","unknown (self reported)",NA
+"vehicle","junction_location","-1","Data missing or out of range",NA
+"vehicle","skidding_and_overturning","0","None",NA
+"vehicle","skidding_and_overturning","1","Skidded",NA
+"vehicle","skidding_and_overturning","2","Skidded and overturned",NA
+"vehicle","skidding_and_overturning","3","Jackknifed",NA
+"vehicle","skidding_and_overturning","4","Jackknifed and overturned",NA
+"vehicle","skidding_and_overturning","5","Overturned",NA
+"vehicle","skidding_and_overturning","9","unknown (self reported)",NA
+"vehicle","skidding_and_overturning","-1","Data missing or out of range",NA
+"vehicle","hit_object_in_carriageway","0","None",NA
+"vehicle","hit_object_in_carriageway","1","Previous accident",NA
+"vehicle","hit_object_in_carriageway","2","Road works",NA
+"vehicle","hit_object_in_carriageway","4","Parked vehicle",NA
+"vehicle","hit_object_in_carriageway","5","Bridge (roof)",NA
+"vehicle","hit_object_in_carriageway","6","Bridge (side)",NA
+"vehicle","hit_object_in_carriageway","7","Bollard or refuge",NA
+"vehicle","hit_object_in_carriageway","8","Open door of vehicle",NA
+"vehicle","hit_object_in_carriageway","9","Central island of roundabout",NA
+"vehicle","hit_object_in_carriageway","10","Kerb",NA
+"vehicle","hit_object_in_carriageway","11","Other object",NA
+"vehicle","hit_object_in_carriageway","12","Any animal (except ridden horse)",NA
+"vehicle","hit_object_in_carriageway","99","unknown (self reported)",NA
+"vehicle","hit_object_in_carriageway","-1","Data missing or out of range",NA
+"vehicle","vehicle_leaving_carriageway","0","Did not leave carriageway",NA
+"vehicle","vehicle_leaving_carriageway","1","Nearside",NA
+"vehicle","vehicle_leaving_carriageway","2","Nearside and rebounded",NA
+"vehicle","vehicle_leaving_carriageway","3","Straight ahead at junction",NA
+"vehicle","vehicle_leaving_carriageway","4","Offside on to central reservation",NA
+"vehicle","vehicle_leaving_carriageway","5","Offside on to centrl res + rebounded",NA
+"vehicle","vehicle_leaving_carriageway","6","Offside - crossed central reservation",NA
+"vehicle","vehicle_leaving_carriageway","7","Offside",NA
+"vehicle","vehicle_leaving_carriageway","8","Offside and rebounded",NA
+"vehicle","vehicle_leaving_carriageway","9","unknown (self reported)",NA
+"vehicle","vehicle_leaving_carriageway","-1","Data missing or out of range",NA
+"vehicle","hit_object_off_carriageway","0","None",NA
+"vehicle","hit_object_off_carriageway","1","Road sign or traffic signal",NA
+"vehicle","hit_object_off_carriageway","2","Lamp post",NA
+"vehicle","hit_object_off_carriageway","3","Telegraph or electricity pole",NA
+"vehicle","hit_object_off_carriageway","4","Tree",NA
+"vehicle","hit_object_off_carriageway","5","Bus stop or bus shelter",NA
+"vehicle","hit_object_off_carriageway","6","Central crash barrier",NA
+"vehicle","hit_object_off_carriageway","7","Near/Offside crash barrier",NA
+"vehicle","hit_object_off_carriageway","8","Submerged in water",NA
+"vehicle","hit_object_off_carriageway","9","Entered ditch",NA
+"vehicle","hit_object_off_carriageway","10","Other permanent object",NA
+"vehicle","hit_object_off_carriageway","11","Wall or fence",NA
+"vehicle","hit_object_off_carriageway","99","unknown (self reported)",NA
+"vehicle","hit_object_off_carriageway","-1","Data missing or out of range",NA
+"vehicle","first_point_of_impact","0","Did not impact",NA
+"vehicle","first_point_of_impact","1","Front",NA
+"vehicle","first_point_of_impact","2","Back",NA
+"vehicle","first_point_of_impact","3","Offside",NA
+"vehicle","first_point_of_impact","4","Nearside",NA
+"vehicle","first_point_of_impact","9","unknown (self reported)",NA
+"vehicle","first_point_of_impact","-1","Data missing or out of range",NA
+"vehicle","vehicle_left_hand_drive","1","No",NA
+"vehicle","vehicle_left_hand_drive","2","Yes",NA
+"vehicle","vehicle_left_hand_drive","9","Unknown",NA
+"vehicle","vehicle_left_hand_drive","-1","Data missing or out of range",NA
+"vehicle","journey_purpose_of_driver_historic","1","Journey as part of work","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","journey_purpose_of_driver_historic","2","Commuting to/from work","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","journey_purpose_of_driver_historic","3","Taking pupil to/from school","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","journey_purpose_of_driver_historic","4","Pupil riding to/from school","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","journey_purpose_of_driver_historic","5","Other","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","journey_purpose_of_driver_historic","6","Not known","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","journey_purpose_of_driver_historic","15","Other/Not known","2005 specification only"
+"vehicle","journey_purpose_of_driver_historic","-1","Data missing or out of range","data collected in the 2011 STATS19 specification (or earlier)"
+"vehicle","journey_purpose_of_driver","1","Journey as part of work","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","journey_purpose_of_driver","2","Commuting to or from work","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","journey_purpose_of_driver","6","Not known or not requested","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","journey_purpose_of_driver","7","Education and educational escort","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","journey_purpose_of_driver","8","Emergency vehicle (blue light) on response","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","journey_purpose_of_driver","9","Personal business or leisure","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","journey_purpose_of_driver","-1","Data missing or out of range","New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification"
+"vehicle","sex_of_driver","1","Male",NA
+"vehicle","sex_of_driver","2","Female",NA
+"vehicle","sex_of_driver","3","Not known",NA
+"vehicle","sex_of_driver","-1","Data missing or out of range",NA
+"vehicle","age_of_driver","-1","Data missing or out of range",NA
+"vehicle","age_band_of_driver","1","0 - 5",NA
+"vehicle","age_band_of_driver","2","6 - 10",NA
+"vehicle","age_band_of_driver","3","11 - 15",NA
+"vehicle","age_band_of_driver","4","16 - 20",NA
+"vehicle","age_band_of_driver","5","21 - 25",NA
+"vehicle","age_band_of_driver","6","26 - 35",NA
+"vehicle","age_band_of_driver","7","36 - 45",NA
+"vehicle","age_band_of_driver","8","46 - 55",NA
+"vehicle","age_band_of_driver","9","56 - 65",NA
+"vehicle","age_band_of_driver","10","66 - 75",NA
+"vehicle","age_band_of_driver","11","Over 75",NA
+"vehicle","age_band_of_driver","-1","Data missing or out of range",NA
+"vehicle","engine_capacity_cc","-1","Data missing or out of range",NA
+"vehicle","propulsion_code","1","Petrol",NA
+"vehicle","propulsion_code","2","Heavy oil",NA
+"vehicle","propulsion_code","3","Electric",NA
+"vehicle","propulsion_code","4","Steam",NA
+"vehicle","propulsion_code","5","Gas",NA
+"vehicle","propulsion_code","6","Petrol/Gas (LPG)",NA
+"vehicle","propulsion_code","7","Gas/Bi-fuel",NA
+"vehicle","propulsion_code","8","Hybrid electric",NA
+"vehicle","propulsion_code","9","Gas Diesel",NA
+"vehicle","propulsion_code","10","New fuel technology",NA
+"vehicle","propulsion_code","11","Fuel cells",NA
+"vehicle","propulsion_code","12","Electric diesel",NA
+"vehicle","propulsion_code","-1","Undefined",NA
+"vehicle","generic_make_model","-1","Data missing or out of range","field introduced in 2020"
+"vehicle","driver_imd_decile","1","Most deprived 10%","field introduced in 2016"
+"vehicle","driver_imd_decile","2","More deprived 10-20%","field introduced in 2016"
+"vehicle","driver_imd_decile","3","More deprived 20-30%","field introduced in 2016"
+"vehicle","driver_imd_decile","4","More deprived 30-40%","field introduced in 2016"
+"vehicle","driver_imd_decile","5","More deprived 40-50%","field introduced in 2016"
+"vehicle","driver_imd_decile","6","Less deprived 40-50%","field introduced in 2016"
+"vehicle","driver_imd_decile","7","Less deprived 30-40%","field introduced in 2016"
+"vehicle","driver_imd_decile","8","Less deprived 20-30%","field introduced in 2016"
+"vehicle","driver_imd_decile","9","Less deprived 10-20%","field introduced in 2016"
+"vehicle","driver_imd_decile","10","Least deprived 10%","field introduced in 2016"
+"vehicle","driver_imd_decile","-1","Data missing or out of range","field introduced in 2016"
+"vehicle","escooter_flag","1","Vehicle was an e-scooter","field introduced in 2023"
+"vehicle","escooter_flag","0","Vehicle was not an e-scooter","field introduced in 2023"
+"vehicle","driver_distance_banding","1","Collision occurred within 5km of drivers home postcode","field introduced in 2023"
+"vehicle","driver_distance_banding","2","Collision occurred between 5.001 and 10km of drivers home postcode","field introduced in 2023"
+"vehicle","driver_distance_banding","3","Collision occurred between 10.001 and 20km of drivers home postcode","field introduced in 2023"
+"vehicle","driver_distance_banding","4","Collision occurred between 20.001 and 100km of drivers home postcode","field introduced in 2023"
+"vehicle","driver_distance_banding","5","Collision occurred over 100km of drivers home postcode","field introduced in 2023"
+"casualty","casualty_class","1","Driver or rider",NA
+"casualty","casualty_class","2","Passenger",NA
+"casualty","casualty_class","3","Pedestrian",NA
+"casualty","sex_of_casualty","1","Male",NA
+"casualty","sex_of_casualty","2","Female",NA
+"casualty","sex_of_casualty","9","unknown (self reported)",NA
+"casualty","sex_of_casualty","-1","Data missing or out of range",NA
+"casualty","age_of_casualty","-1","Data missing or out of range",NA
+"casualty","age_band_of_casualty","1","0 - 5",NA
+"casualty","age_band_of_casualty","2","6 - 10",NA
+"casualty","age_band_of_casualty","3","11 - 15",NA
+"casualty","age_band_of_casualty","4","16 - 20",NA
+"casualty","age_band_of_casualty","5","21 - 25",NA
+"casualty","age_band_of_casualty","6","26 - 35",NA
+"casualty","age_band_of_casualty","7","36 - 45",NA
+"casualty","age_band_of_casualty","8","46 - 55",NA
+"casualty","age_band_of_casualty","9","56 - 65",NA
+"casualty","age_band_of_casualty","10","66 - 75",NA
+"casualty","age_band_of_casualty","11","Over 75",NA
+"casualty","age_band_of_casualty","-1","Data missing or out of range",NA
+"casualty","casualty_severity","1","Fatal",NA
+"casualty","casualty_severity","2","Serious",NA
+"casualty","casualty_severity","3","Slight",NA
+"casualty","enhanced_casualty_severity","1","Fatal","category introduced where collected in 2023"
+"casualty","enhanced_casualty_severity","5","Very Serious","category introduced where collected in 2023"
+"casualty","enhanced_casualty_severity","6","Moderately Serious","category introduced where collected in 2023"
+"casualty","enhanced_casualty_severity","7","Less Serious","category introduced where collected in 2023"
+"casualty","enhanced_casualty_severity","3","Slight","category introduced where collected in 2023"
+"casualty","enhanced_casualty_severity","-1","Data missing or out of range","category introduced where collected in 2023"
+"casualty","pedestrian_location","0","Not a Pedestrian",NA
+"casualty","pedestrian_location","1","Crossing on pedestrian crossing facility",NA
+"casualty","pedestrian_location","2","Crossing in zig-zag approach lines",NA
+"casualty","pedestrian_location","3","Crossing in zig-zag exit lines",NA
+"casualty","pedestrian_location","4","Crossing elsewhere within 50m. of pedestrian crossing",NA
+"casualty","pedestrian_location","5","In carriageway, crossing elsewhere",NA
+"casualty","pedestrian_location","6","On footway or verge",NA
+"casualty","pedestrian_location","7","On refuge, central island or central reservation",NA
+"casualty","pedestrian_location","8","In centre of carriageway - not on refuge, island or central reservation",NA
+"casualty","pedestrian_location","9","In carriageway, not crossing",NA
+"casualty","pedestrian_location","10","Unknown or other",NA
+"casualty","pedestrian_location","-1","Data missing or out of range",NA
+"casualty","pedestrian_movement","0","Not a Pedestrian",NA
+"casualty","pedestrian_movement","1","Crossing from driver's nearside",NA
+"casualty","pedestrian_movement","2","Crossing from nearside - masked by parked or stationary vehicle",NA
+"casualty","pedestrian_movement","3","Crossing from driver's offside",NA
+"casualty","pedestrian_movement","4","Crossing from offside - masked by  parked or stationary vehicle",NA
+"casualty","pedestrian_movement","5","In carriageway, stationary - not crossing  (standing or playing)",NA
+"casualty","pedestrian_movement","6","In carriageway, stationary - not crossing  (standing or playing) - masked by parked or stationary vehicle",NA
+"casualty","pedestrian_movement","7","Walking along in carriageway, facing traffic",NA
+"casualty","pedestrian_movement","8","Walking along in carriageway, back to traffic",NA
+"casualty","pedestrian_movement","9","Unknown or other",NA
+"casualty","pedestrian_movement","-1","Data missing or out of range",NA
+"casualty","car_passenger","0","Not car passenger",NA
+"casualty","car_passenger","1","Front seat passenger",NA
+"casualty","car_passenger","2","Rear seat passenger",NA
+"casualty","car_passenger","9","unknown (self reported)",NA
+"casualty","car_passenger","-1","Data missing or out of range",NA
+"casualty","bus_or_coach_passenger","0","Not a bus or coach passenger",NA
+"casualty","bus_or_coach_passenger","1","Boarding",NA
+"casualty","bus_or_coach_passenger","2","Alighting",NA
+"casualty","bus_or_coach_passenger","3","Standing passenger",NA
+"casualty","bus_or_coach_passenger","4","Seated passenger",NA
+"casualty","bus_or_coach_passenger","9","unknown (self reported)",NA
+"casualty","bus_or_coach_passenger","-1","Data missing or out of range",NA
+"casualty","pedestrian_road_maintenance_worker","0","No / Not applicable",NA
+"casualty","pedestrian_road_maintenance_worker","1","Yes",NA
+"casualty","pedestrian_road_maintenance_worker","2","Not Known",NA
+"casualty","pedestrian_road_maintenance_worker","3","Probable","2005 specification only"
+"casualty","pedestrian_road_maintenance_worker","-1","Data missing or out of range",NA
+"casualty","casualty_type","0","Pedestrian",NA
+"casualty","casualty_type","1","Cyclist",NA
+"casualty","casualty_type","2","Motorcycle 50cc and under rider or passenger",NA
+"casualty","casualty_type","3","Motorcycle 125cc and under rider or passenger","introduced in 1999 specification"
+"casualty","casualty_type","4","Motorcycle over 125cc and up to 500cc rider or  passenger","introduced in 2005 specification"
+"casualty","casualty_type","5","Motorcycle over 500cc rider or passenger","introduced in 2005 specification"
+"casualty","casualty_type","8","Taxi/Private hire car occupant","introduced in 2005 specification"
+"casualty","casualty_type","9","Car occupant","introduced in 2005 specification"
+"casualty","casualty_type","10","Minibus (8 - 16 passenger seats) occupant","introduced in 1999 specification"
+"casualty","casualty_type","11","Bus or coach occupant (17 or more pass seats)",NA
+"casualty","casualty_type","16","Horse rider","introduced in 1999 specification"
+"casualty","casualty_type","17","Agricultural vehicle occupant","introduced in 1999 specification"
+"casualty","casualty_type","18","Tram occupant","introduced in 1999 specification"
+"casualty","casualty_type","19","Van / Goods vehicle (3.5 tonnes mgw or under) occupant",NA
+"casualty","casualty_type","20","Goods vehicle (over 3.5t. and under 7.5t.) occupant","introduced in 1999 specification"
+"casualty","casualty_type","21","Goods vehicle (7.5 tonnes mgw and over) occupant","introduced in 1999 specification"
+"casualty","casualty_type","22","Mobility scooter rider","introduced in 2011 specification"
+"casualty","casualty_type","23","Electric motorcycle rider or passenger","introduced in 2011 specification"
+"casualty","casualty_type","23","Personal Powered Transporter","introduced in 2024 specification"
+"casualty","casualty_type","90","Other vehicle occupant","introduced in 2011 specification"
+"casualty","casualty_type","97","Motorcycle - unknown cc rider or passenger","introduced in 2011 specification"
+"casualty","casualty_type","98","Goods vehicle (unknown weight) occupant","introduced in 2011 specification"
+"casualty","casualty_type","99","Unknown vehicle type (self rep only)","introduced in 2011 specification"
+"casualty","casualty_type","103","Motorcycle - Scooter (1979-1998)","dropped in 1999 specification"
+"casualty","casualty_type","104","Motorcycle (1979-1998)","dropped in 1999 specification"
+"casualty","casualty_type","105","Motorcycle - Combination (1979-1998)","dropped in 1999 specification"
+"casualty","casualty_type","106","Motorcycle over 125cc (1999-2004)","dropped in 2005 specification"
+"casualty","casualty_type","108","Taxi (excluding private hire cars) (1979-2004)","dropped in 2005 specification"
+"casualty","casualty_type","109","Car (including private hire cars) (1979-2004)","dropped in 2005 specification"
+"casualty","casualty_type","110","Minibus/Motor caravan (1979-1998)","dropped in 1999 specification"
+"casualty","casualty_type","113","Goods over 3.5 tonnes (1979-1998)","dropped in 1999 specification"
+"casualty","casualty_type","-1","Data missing or out of range",NA
+"casualty","casualty_imd_decile","1","Most deprived 10%","field introduced in 2016"
+"casualty","casualty_imd_decile","2","More deprived 10-20%","field introduced in 2016"
+"casualty","casualty_imd_decile","3","More deprived 20-30%","field introduced in 2016"
+"casualty","casualty_imd_decile","4","More deprived 30-40%","field introduced in 2016"
+"casualty","casualty_imd_decile","5","More deprived 40-50%","field introduced in 2016"
+"casualty","casualty_imd_decile","6","Less deprived 40-50%","field introduced in 2016"
+"casualty","casualty_imd_decile","7","Less deprived 30-40%","field introduced in 2016"
+"casualty","casualty_imd_decile","8","Less deprived 20-30%","field introduced in 2016"
+"casualty","casualty_imd_decile","9","Less deprived 10-20%","field introduced in 2016"
+"casualty","casualty_imd_decile","10","Least deprived 10%","field introduced in 2016"
+"casualty","casualty_imd_decile","-1","Data missing or out of range","field introduced in 2016"
+"casualty","casualty_injury_based","0","Based on severity reporting",NA
+"casualty","casualty_injury_based","1","Based on Injury code reporting",NA
+"casualty","casualty_distance_banding","1","Collision occurred within 5km of casualties home postcode","field introduced in 2023"
+"casualty","casualty_distance_banding","2","Collision occurred between 5.001 and 10km of casualties home postcode","field introduced in 2023"
+"casualty","casualty_distance_banding","3","Collision occurred between 10.001 and 20km of casualties home postcode","field introduced in 2023"
+"casualty","casualty_distance_banding","4","Collision occurred between 20.001 and 100km of casualties home postcode","field introduced in 2023"
+"casualty","casualty_distance_banding","5","Collision occurred over 100km of casualties home postcode","field introduced in 2023"
+"casualty","casualty_distance_banding","-1","Data missing or out of range","field introduced in 2023"
+"casualty","escooter_flag","1","Casualty was using an e-scooter","field introduced in 2025"
+"casualty","escooter_flag","0","Casualty was not using an e-scooter","field introduced in 2025"
